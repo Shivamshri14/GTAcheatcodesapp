@@ -1,0 +1,580 @@
+{
+ "android_play_store_link": "",
+ "ios_app_store_link": "",
+ "sticker_packs": [
+  {
+   "identifier": "1",
+   "name": "Cheat Codes Memes",
+   "publisher": "Saksham Srivastava",
+   "tray_image_file": "tray.png",
+   "image_data_version": "2",
+   "avoid_cache": false,
+   "publisher_email": "",
+   "publisher_website": "",
+   "privacy_policy_website": "",
+   "license_agreement_website": "",
+   "animated_sticker_pack": false,
+   "stickers": [
+    {
+     "image_file": "01_wasted.webp",
+     "emojis": [
+      "💀",
+      "😵"
+     ]
+    },
+    {
+     "image_file": "02_busted.webp",
+     "emojis": [
+      "🚓",
+      "😬"
+     ]
+    },
+    {
+     "image_file": "03_mission_passed.webp",
+     "emojis": [
+      "🏆",
+      "✅"
+     ]
+    },
+    {
+     "image_file": "04_mission_failed.webp",
+     "emojis": [
+      "❌",
+      "😩"
+     ]
+    },
+    {
+     "image_file": "05_wanted_stars.webp",
+     "emojis": [
+      "⭐",
+      "🚨"
+     ]
+    },
+    {
+     "image_file": "06_here_we_go_again.webp",
+     "emojis": [
+      "🙄",
+      "😤"
+     ]
+    },
+    {
+     "image_file": "07_follow_the_train.webp",
+     "emojis": [
+      "🚂",
+      "🤦"
+     ]
+    },
+    {
+     "image_file": "08_here_we_go.webp",
+     "emojis": [
+      "🔥",
+      "😎"
+     ]
+    },
+    {
+     "image_file": "09_cash_stack.webp",
+     "emojis": [
+      "💰",
+      "🤑"
+     ]
+    },
+    {
+     "image_file": "10_sports_car.webp",
+     "emojis": [
+      "🏎️",
+      "💨"
+     ]
+    },
+    {
+     "image_file": "11_police_siren.webp",
+     "emojis": [
+      "🚨",
+      "👮"
+     ]
+    },
+    {
+     "image_file": "12_neon_city.webp",
+     "emojis": [
+      "🌴",
+      "🌆"
+     ]
+    },
+    {
+     "image_file": "13_cheat_activated.webp",
+     "emojis": [
+      "🎮",
+      "✨"
+     ]
+    },
+    {
+     "image_file": "14_hesoyam.webp",
+     "emojis": [
+      "❤️",
+      "💪"
+     ]
+    },
+    {
+     "image_file": "15_respect_plus.webp",
+     "emojis": [
+      "🙌",
+      "💯"
+     ]
+    },
+    {
+     "image_file": "16_five_stars.webp",
+     "emojis": [
+      "⭐",
+      "🌟"
+     ]
+    },
+    {
+     "image_file": "17_respawned.webp",
+     "emojis": [
+      "🏥",
+      "🤕"
+     ]
+    },
+    {
+     "image_file": "18_nitro.webp",
+     "emojis": [
+      "⚡",
+      "🚀"
+     ]
+    },
+    {
+     "image_file": "19_sportscar.webp",
+     "emojis": [
+      "🚗",
+      "😎"
+     ]
+    },
+    {
+     "image_file": "20_police_car.webp",
+     "emojis": [
+      "🚓",
+      "😱"
+     ]
+    },
+    {
+     "image_file": "21_cash.webp",
+     "emojis": [
+      "💵",
+      "🤑"
+     ]
+    },
+    {
+     "image_file": "22_money_bag.webp",
+     "emojis": [
+      "💰",
+      "😏"
+     ]
+    },
+    {
+     "image_file": "23_chain.webp",
+     "emojis": [
+      "💎",
+      "😎"
+     ]
+    },
+    {
+     "image_file": "24_aviators.webp",
+     "emojis": [
+      "😎"
+     ]
+    },
+    {
+     "image_file": "25_chopper.webp",
+     "emojis": [
+      "🏍",
+      "🤘"
+     ]
+    },
+    {
+     "image_file": "26_armor.webp",
+     "emojis": [
+      "🛡",
+      "💪"
+     ]
+    },
+    {
+     "image_file": "27_fire_can.webp",
+     "emojis": [
+      "🔥",
+      "😈"
+     ]
+    },
+    {
+     "image_file": "28_bat.webp",
+     "emojis": [
+      "😠",
+      "👊"
+     ]
+    }
+   ]
+  },
+  {
+   "identifier": "2",
+   "name": "Cheat Codes Street Crew",
+   "publisher": "Saksham Srivastava",
+   "tray_image_file": "tray.png",
+   "image_data_version": "2",
+   "avoid_cache": false,
+   "publisher_email": "",
+   "publisher_website": "",
+   "privacy_policy_website": "",
+   "license_agreement_website": "",
+   "animated_sticker_pack": false,
+   "stickers": [
+    {
+     "image_file": "01_bandana.webp",
+     "emojis": [
+      "👋",
+      "😎"
+     ]
+    },
+    {
+     "image_file": "02_cop.webp",
+     "emojis": [
+      "🚓",
+      "👮"
+     ]
+    },
+    {
+     "image_file": "03_biker.webp",
+     "emojis": [
+      "🏍",
+      "🤘"
+     ]
+    },
+    {
+     "image_file": "04_hustler.webp",
+     "emojis": [
+      "💰",
+      "🤑"
+     ]
+    },
+    {
+     "image_file": "05_shades_girl.webp",
+     "emojis": [
+      "💅",
+      "😎"
+     ]
+    },
+    {
+     "image_file": "06_getaway.webp",
+     "emojis": [
+      "🚗",
+      "😉"
+     ]
+    },
+    {
+     "image_file": "07_bat_thug.webp",
+     "emojis": [
+      "😠",
+      "👊"
+     ]
+    },
+    {
+     "image_file": "08_white_suit.webp",
+     "emojis": [
+      "💼",
+      "🤝"
+     ]
+    },
+    {
+     "image_file": "09_hacker.webp",
+     "emojis": [
+      "💻",
+      "😈"
+     ]
+    },
+    {
+     "image_file": "10_racer_girl.webp",
+     "emojis": [
+      "🏁",
+      "✌"
+     ]
+    },
+    {
+     "image_file": "11_swat.webp",
+     "emojis": [
+      "🛑",
+      "👮"
+     ]
+    },
+    {
+     "image_file": "12_tourist.webp",
+     "emojis": [
+      "📸",
+      "😱"
+     ]
+    },
+    {
+     "image_file": "13_grandma.webp",
+     "emojis": [
+      "👵",
+      "😡"
+     ]
+    },
+    {
+     "image_file": "14_gym_bro.webp",
+     "emojis": [
+      "💪",
+      "😤"
+     ]
+    },
+    {
+     "image_file": "15_lady_cop.webp",
+     "emojis": [
+      "📻",
+      "👮"
+     ]
+    },
+    {
+     "image_file": "16_mob_boss.webp",
+     "emojis": [
+      "😏",
+      "🎩"
+     ]
+    },
+    {
+     "image_file": "17_mechanic.webp",
+     "emojis": [
+      "🔧",
+      "😁"
+     ]
+    },
+    {
+     "image_file": "18_guard.webp",
+     "emojis": [
+      "🔦",
+      "😰"
+     ]
+    },
+    {
+     "image_file": "19_cash_call.webp",
+     "emojis": [
+      "💵",
+      "📞"
+     ]
+    },
+    {
+     "image_file": "20_old_hustler.webp",
+     "emojis": [
+      "👴",
+      "😌"
+     ]
+    },
+    {
+     "image_file": "21_bouncer.webp",
+     "emojis": [
+      "🚫",
+      "💪"
+     ]
+    },
+    {
+     "image_file": "22_donut_cop.webp",
+     "emojis": [
+      "🍩",
+      "☕"
+     ]
+    },
+    {
+     "image_file": "23_pizza.webp",
+     "emojis": [
+      "🍕",
+      "🛵"
+     ]
+    },
+    {
+     "image_file": "24_dj.webp",
+     "emojis": [
+      "🎧",
+      "🔥"
+     ]
+    },
+    {
+     "image_file": "25_skater.webp",
+     "emojis": [
+      "🛹",
+      "😜"
+     ]
+    },
+    {
+     "image_file": "26_paramedic.webp",
+     "emojis": [
+      "🚑",
+      "😰"
+     ]
+    },
+    {
+     "image_file": "27_robber.webp",
+     "emojis": [
+      "💰",
+      "🏃"
+     ]
+    },
+    {
+     "image_file": "28_dancer.webp",
+     "emojis": [
+      "💃",
+      "🕺"
+     ]
+    },
+    {
+     "image_file": "29_burger_guy.webp",
+     "emojis": [
+      "🍔",
+      "😋"
+     ]
+    },
+    {
+     "image_file": "30_gossip.webp",
+     "emojis": [
+      "📱",
+      "😲"
+     ]
+    }
+   ]
+  },
+  {
+   "identifier": "3",
+   "name": "Cheat Codes Reactions",
+   "publisher": "Saksham Srivastava",
+   "tray_image_file": "tray.png",
+   "image_data_version": "2",
+   "avoid_cache": false,
+   "publisher_email": "",
+   "publisher_website": "",
+   "privacy_policy_website": "",
+   "license_agreement_website": "",
+   "animated_sticker_pack": false,
+   "stickers": [
+    {
+     "image_file": "01_crying.webp",
+     "emojis": [
+      "😭",
+      "💔"
+     ]
+    },
+    {
+     "image_file": "02_laughing.webp",
+     "emojis": [
+      "😂",
+      "👉"
+     ]
+    },
+    {
+     "image_file": "03_facepalm.webp",
+     "emojis": [
+      "🤦",
+      "😑"
+     ]
+    },
+    {
+     "image_file": "04_shrug.webp",
+     "emojis": [
+      "🤷",
+      "😕"
+     ]
+    },
+    {
+     "image_file": "05_thumbs_up.webp",
+     "emojis": [
+      "👍",
+      "😎"
+     ]
+    },
+    {
+     "image_file": "06_eye_roll.webp",
+     "emojis": [
+      "🙄",
+      "💅"
+     ]
+    },
+    {
+     "image_file": "07_sleeping.webp",
+     "emojis": [
+      "😴",
+      "💤"
+     ]
+    },
+    {
+     "image_file": "08_cash_throne.webp",
+     "emojis": [
+      "👑",
+      "💰"
+     ]
+    },
+    {
+     "image_file": "09_shocked.webp",
+     "emojis": [
+      "😱",
+      "😮"
+     ]
+    },
+    {
+     "image_file": "10_chefs_kiss.webp",
+     "emojis": [
+      "😘",
+      "👌"
+     ]
+    },
+    {
+     "image_file": "11_o_heli.webp",
+     "emojis": [
+      "🚁"
+     ]
+    },
+    {
+     "image_file": "12_o_skull.webp",
+     "emojis": [
+      "💀"
+     ]
+    },
+    {
+     "image_file": "13_o_heart.webp",
+     "emojis": [
+      "❤",
+      "👑"
+     ]
+    },
+    {
+     "image_file": "14_o_trophy.webp",
+     "emojis": [
+      "🏆",
+      "🥇"
+     ]
+    },
+    {
+     "image_file": "15_o_burger.webp",
+     "emojis": [
+      "🍔",
+      "🍟"
+     ]
+    },
+    {
+     "image_file": "16_o_bomb.webp",
+     "emojis": [
+      "💣",
+      "⏰"
+     ]
+    },
+    {
+     "image_file": "17_o_boat.webp",
+     "emojis": [
+      "🚤",
+      "👋"
+     ]
+    },
+    {
+     "image_file": "18_o_taxi.webp",
+     "emojis": [
+      "🚕",
+      "🙋"
+     ]
+    }
+   ]
+  }
+ ]
+}

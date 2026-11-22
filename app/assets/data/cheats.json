@@ -1,0 +1,7163 @@
+{
+ "version": 1,
+ "updated": "2026-11-22",
+ "games": [
+  {
+   "id": "gta3",
+   "title": "GTA III",
+   "year": 2001,
+   "city": "Liberty City",
+   "color": "0xFFF2B33D",
+   "platforms": [
+    "ps",
+    "xbox",
+    "pc"
+   ],
+   "how": {
+    "ps": "Enter during gameplay (not paused). Works on PS2 and The Definitive Edition (PS4/PS5).",
+    "xbox": "Enter during gameplay. Buttons shown for the Definitive Edition (Xbox One / Series).",
+    "pc": "Type the word during gameplay. No console needed."
+   },
+   "source": "GameSpot (Definitive Edition list), GTABase (PC)",
+   "cheats": [
+    {
+     "name": "Full Health",
+     "cat": "Player",
+     "ps": [
+      "R2",
+      "R2",
+      "L1",
+      "R1",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "xbox": [
+      "RT",
+      "RT",
+      "LB",
+      "RB",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "pc": "GESUNDHEIT"
+    },
+    {
+     "name": "Full Armor",
+     "cat": "Player",
+     "ps": [
+      "R2",
+      "R2",
+      "L1",
+      "L2",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "xbox": [
+      "RT",
+      "RT",
+      "LB",
+      "LT",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "pc": "TORTOISE"
+    },
+    {
+     "name": "All Weapons",
+     "cat": "Weapons",
+     "ps": [
+      "R2",
+      "R2",
+      "L1",
+      "R2",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "xbox": [
+      "RT",
+      "RT",
+      "LB",
+      "RT",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "pc": "GUNSGUNSGUNS"
+    },
+    {
+     "name": "Money ($250,000)",
+     "cat": "Player",
+     "ps": [
+      "R2",
+      "R2",
+      "L1",
+      "L1",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "xbox": [
+      "RT",
+      "RT",
+      "LB",
+      "LB",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "pc": "IFIWEREARICHMAN"
+    },
+    {
+     "name": "Raise Wanted Level",
+     "cat": "Wanted",
+     "ps": [
+      "R2",
+      "R2",
+      "L1",
+      "R2",
+      "Left",
+      "Right",
+      "Left",
+      "Right",
+      "Left",
+      "Right"
+     ],
+     "xbox": [
+      "RT",
+      "RT",
+      "LB",
+      "RT",
+      "Left",
+      "Right",
+      "Left",
+      "Right",
+      "Left",
+      "Right"
+     ],
+     "pc": "MOREPOLICEPLEASE"
+    },
+    {
+     "name": "Remove Wanted Level",
+     "cat": "Wanted",
+     "ps": [
+      "R2",
+      "R2",
+      "L1",
+      "R2",
+      "Up",
+      "Down",
+      "Up",
+      "Down",
+      "Up",
+      "Down"
+     ],
+     "xbox": [
+      "RT",
+      "RT",
+      "LB",
+      "RT",
+      "Up",
+      "Down",
+      "Up",
+      "Down",
+      "Up",
+      "Down"
+     ],
+     "pc": "NOPOLICEPLEASE"
+    },
+    {
+     "name": "Change Character",
+     "cat": "Player",
+     "ps": [
+      "Right",
+      "Down",
+      "Left",
+      "Up",
+      "L1",
+      "L2",
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+     ],
+     "xbox": [
+      "Right",
+      "Down",
+      "Left",
+      "Up",
+      "LB",
+      "LT",
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+     ],
+     "pc": "ILIKEDRESSINGUP"
+    },
+    {
+     "name": "Spawn Rhino Tank",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "Circle",
+      "Circle",
+      "Circle",
+      "Circle",
+      "Circle",
+      "R1",
+      "L2",
+      "L1",
+      "Triangle",
+      "Circle",
+      "Triangle"
+     ],
+     "xbox": [
+      "B",
+      "B",
+      "B",
+      "B",
+      "B",
+      "B",
+      "RB",
+      "LT",
+      "LB",
+      "Y",
+      "B",
+      "Y"
+     ],
+     "pc": "GIVEUSATANK"
+    },
+    {
+     "name": "Destroy All Cars",
+     "cat": "Vehicles",
+     "ps": [
+      "L2",
+      "R2",
+      "L1",
+      "R1",
+      "L2",
+      "R2",
+      "Triangle",
+      "Square",
+      "Circle",
+      "Triangle",
+      "L2",
+      "L1"
+     ],
+     "xbox": [
+      "LT",
+      "RT",
+      "LB",
+      "RB",
+      "LT",
+      "RT",
+      "Y",
+      "X",
+      "B",
+      "Y",
+      "LT",
+      "LB"
+     ],
+     "pc": "BANGBANGBANG"
+    },
+    {
+     "name": "Flying Cars",
+     "cat": "Vehicles",
+     "ps": [
+      "Right",
+      "R2",
+      "Circle",
+      "R1",
+      "L2",
+      "Down",
+      "L1",
+      "R1"
+     ],
+     "xbox": [
+      "Right",
+      "RT",
+      "B",
+      "RB",
+      "LT",
+      "Down",
+      "LB",
+      "RB"
+     ],
+     "pc": "CHITTYCHITTYBB"
+    },
+    {
+     "name": "Better Car Handling (L3 to jump)",
+     "cat": "Vehicles",
+     "ps": [
+      "R1",
+      "L1",
+      "R2",
+      "L1",
+      "Left",
+      "R1",
+      "R1",
+      "Triangle"
+     ],
+     "xbox": [
+      "RB",
+      "LB",
+      "RT",
+      "LB",
+      "Left",
+      "RB",
+      "RB",
+      "Y"
+     ],
+     "pc": "CORNERSLIKEMAD"
+    },
+    {
+     "name": "Clear Weather",
+     "cat": "Weather",
+     "ps": [
+      "L1",
+      "L2",
+      "R1",
+      "R2",
+      "R2",
+      "R1",
+      "L2",
+      "Triangle"
+     ],
+     "xbox": [
+      "LB",
+      "LT",
+      "RB",
+      "RT",
+      "RT",
+      "RB",
+      "LT",
+      "Y"
+     ],
+     "pc": "SKINCANCERFORME"
+    },
+    {
+     "name": "Cloudy Weather",
+     "cat": "Weather",
+     "ps": [
+      "L1",
+      "L2",
+      "R1",
+      "R2",
+      "R2",
+      "R1",
+      "L2",
+      "Square"
+     ],
+     "xbox": [
+      "LB",
+      "LT",
+      "RB",
+      "RT",
+      "RT",
+      "RB",
+      "LT",
+      "X"
+     ],
+     "pc": "ILIKESCOTLAND"
+    },
+    {
+     "name": "Rainy Weather",
+     "cat": "Weather",
+     "ps": [
+      "L1",
+      "L2",
+      "R1",
+      "R2",
+      "R2",
+      "R1",
+      "L2",
+      "Circle"
+     ],
+     "xbox": [
+      "LB",
+      "LT",
+      "RB",
+      "RT",
+      "RT",
+      "RB",
+      "LT",
+      "B"
+     ],
+     "pc": "ILOVESCOTLAND"
+    },
+    {
+     "name": "Foggy Weather",
+     "cat": "Weather",
+     "ps": [
+      "L1",
+      "L2",
+      "R1",
+      "R2",
+      "R2",
+      "R1",
+      "L2",
+      "Cross"
+     ],
+     "xbox": [
+      "LB",
+      "LT",
+      "RB",
+      "RT",
+      "RT",
+      "RB",
+      "LT",
+      "A"
+     ],
+     "pc": "PEASOUP"
+    },
+    {
+     "name": "Speed Up Clock",
+     "cat": "World",
+     "ps": [
+      "Circle",
+      "Circle",
+      "Circle",
+      "Square",
+      "Square",
+      "Square",
+      "Square",
+      "Square",
+      "L1",
+      "Triangle",
+      "Circle",
+      "Triangle"
+     ],
+     "xbox": [
+      "B",
+      "B",
+      "B",
+      "X",
+      "X",
+      "X",
+      "X",
+      "X",
+      "LB",
+      "Y",
+      "B",
+      "Y"
+     ],
+     "pc": "MADWEATHER"
+    },
+    {
+     "name": "Slow Motion",
+     "cat": "World",
+     "ps": [
+      "Triangle",
+      "Up",
+      "Right",
+      "Down",
+      "Square",
+      "R1",
+      "R2"
+     ],
+     "xbox": [
+      "Y",
+      "Up",
+      "Right",
+      "Down",
+      "X",
+      "RB",
+      "RT"
+     ],
+     "pc": "BOOOOORING"
+    },
+    {
+     "name": "Fast Motion",
+     "cat": "World",
+     "ps": [
+      "Triangle",
+      "Up",
+      "Right",
+      "Down",
+      "Square",
+      "L1",
+      "L2"
+     ],
+     "xbox": [
+      "Y",
+      "Up",
+      "Right",
+      "Down",
+      "X",
+      "LB",
+      "LT"
+     ],
+     "pc": "TIMEFLIESWHENYOU"
+    },
+    {
+     "name": "Pedestrians Riot",
+     "cat": "Pedestrians",
+     "ps": [
+      "Down",
+      "Up",
+      "Left",
+      "Up",
+      "Cross",
+      "R1",
+      "R2",
+      "L2",
+      "L1"
+     ],
+     "xbox": [
+      "Down",
+      "Up",
+      "Left",
+      "Up",
+      "A",
+      "RB",
+      "RT",
+      "LT",
+      "LB"
+     ],
+     "pc": "ITSALLGOINGMAAAD"
+    },
+    {
+     "name": "Pedestrians Attack You",
+     "cat": "Pedestrians",
+     "ps": [
+      "Down",
+      "Up",
+      "Left",
+      "Up",
+      "Cross",
+      "R1",
+      "R2",
+      "L1",
+      "L2"
+     ],
+     "xbox": [
+      "Down",
+      "Up",
+      "Left",
+      "Up",
+      "A",
+      "RB",
+      "RT",
+      "LB",
+      "LT"
+     ],
+     "pc": "NOBODYLIKESME"
+    },
+    {
+     "name": "Pedestrians Have Weapons",
+     "cat": "Pedestrians",
+     "ps": [
+      "R2",
+      "R1",
+      "Triangle",
+      "Cross",
+      "L2",
+      "L1",
+      "Up",
+      "Down"
+     ],
+     "xbox": [
+      "RT",
+      "RB",
+      "Y",
+      "A",
+      "LT",
+      "LB",
+      "Up",
+      "Down"
+     ],
+     "pc": "WEAPONSFORALL"
+    },
+    {
+     "name": "Increased Gore",
+     "cat": "World",
+     "pc": "NASTYLIMBSCHEAT"
+    },
+    {
+     "name": "Big Head Mode (Definitive Edition)",
+     "cat": "World",
+     "pc": "EXPANDDOME"
+    }
+   ]
+  },
+  {
+   "id": "vc",
+   "title": "Vice City",
+   "year": 2002,
+   "city": "Vice City",
+   "color": "0xFFFF4FA3",
+   "platforms": [
+    "ps",
+    "xbox",
+    "pc"
+   ],
+   "how": {
+    "ps": "Enter during gameplay (not paused). Works on PS2 and The Definitive Edition.",
+    "xbox": "Enter during gameplay. Buttons shown for the Definitive Edition (Xbox One / Series).",
+    "pc": "Type the word during gameplay."
+   },
+   "source": "GameFAQs / GameSpot (console & PC lists)",
+   "cheats": [
+    {
+     "name": "Full Health",
+     "cat": "Player",
+     "ps": [
+      "R1",
+      "R2",
+      "L1",
+      "Circle",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "xbox": [
+      "RB",
+      "RT",
+      "LB",
+      "B",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "pc": "ASPIRINE"
+    },
+    {
+     "name": "Full Armor",
+     "cat": "Player",
+     "ps": [
+      "R1",
+      "R2",
+      "L1",
+      "Cross",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "xbox": [
+      "RB",
+      "RT",
+      "LB",
+      "A",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "pc": "PRECIOUSPROTECTION"
+    },
+    {
+     "name": "Weapon Set 1",
+     "cat": "Weapons",
+     "ps": [
+      "R1",
+      "R2",
+      "L1",
+      "R2",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "xbox": [
+      "RB",
+      "RT",
+      "LB",
+      "RT",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "pc": "THUGSTOOLS"
+    },
+    {
+     "name": "Weapon Set 2",
+     "cat": "Weapons",
+     "ps": [
+      "R1",
+      "R2",
+      "L1",
+      "R2",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Down",
+      "Left"
+     ],
+     "xbox": [
+      "RB",
+      "RT",
+      "LB",
+      "RT",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Down",
+      "Left"
+     ],
+     "pc": "PROFESSIONALTOOLS"
+    },
+    {
+     "name": "Weapon Set 3",
+     "cat": "Weapons",
+     "ps": [
+      "R1",
+      "R2",
+      "L1",
+      "R2",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Down",
+      "Down"
+     ],
+     "xbox": [
+      "RB",
+      "RT",
+      "LB",
+      "RT",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Down",
+      "Down"
+     ],
+     "pc": "NUTTERTOOLS"
+    },
+    {
+     "name": "Raise Wanted Level",
+     "cat": "Wanted",
+     "ps": [
+      "R1",
+      "R1",
+      "Circle",
+      "R2",
+      "Left",
+      "Right",
+      "Left",
+      "Right",
+      "Left",
+      "Right"
+     ],
+     "xbox": [
+      "RB",
+      "RB",
+      "B",
+      "RT",
+      "Left",
+      "Right",
+      "Left",
+      "Right",
+      "Left",
+      "Right"
+     ],
+     "pc": "YOUWONTTAKEMEALIVE"
+    },
+    {
+     "name": "Remove Wanted Level",
+     "cat": "Wanted",
+     "ps": [
+      "R1",
+      "R1",
+      "Circle",
+      "R2",
+      "Up",
+      "Down",
+      "Up",
+      "Down",
+      "Up",
+      "Down"
+     ],
+     "xbox": [
+      "RB",
+      "RB",
+      "B",
+      "RT",
+      "Up",
+      "Down",
+      "Up",
+      "Down",
+      "Up",
+      "Down"
+     ],
+     "pc": "LEAVEMEALONE"
+    },
+    {
+     "name": "Commit Suicide",
+     "cat": "Player",
+     "ps": [
+      "Right",
+      "L2",
+      "Down",
+      "R1",
+      "Left",
+      "Left",
+      "R1",
+      "L1",
+      "L2",
+      "L1"
+     ],
+     "xbox": [
+      "Right",
+      "LT",
+      "Down",
+      "RB",
+      "Left",
+      "Left",
+      "RB",
+      "LB",
+      "LT",
+      "LB"
+     ],
+     "pc": "ICANTTAKEITANYMORE"
+    },
+    {
+     "name": "Change Outfit",
+     "cat": "Player",
+     "ps": [
+      "Right",
+      "Right",
+      "Left",
+      "Up",
+      "L1",
+      "L2",
+      "Left",
+      "Up",
+      "Down",
+      "Right"
+     ],
+     "xbox": [
+      "Right",
+      "Right",
+      "Left",
+      "Up",
+      "LB",
+      "LT",
+      "Left",
+      "Up",
+      "Down",
+      "Right"
+     ],
+     "pc": "STILLLIKEDRESSINGUP"
+    },
+    {
+     "name": "Play as Candy Suxxx",
+     "cat": "Player",
+     "ps": [
+      "Circle",
+      "R2",
+      "Down",
+      "R1",
+      "Left",
+      "Right",
+      "R1",
+      "L1",
+      "Cross",
+      "L2"
+     ],
+     "xbox": [
+      "B",
+      "RT",
+      "Down",
+      "RB",
+      "Left",
+      "Right",
+      "RB",
+      "LB",
+      "A",
+      "LT"
+     ],
+     "pc": "IWANTBIGTITS"
+    },
+    {
+     "name": "Play as Hilary King",
+     "cat": "Player",
+     "ps": [
+      "R1",
+      "Circle",
+      "R2",
+      "L1",
+      "Right",
+      "R1",
+      "L1",
+      "Cross",
+      "R2"
+     ],
+     "xbox": [
+      "RB",
+      "B",
+      "RT",
+      "LB",
+      "Right",
+      "RB",
+      "LB",
+      "A",
+      "RT"
+     ],
+     "pc": "ILOOKLIKEHILARY"
+    },
+    {
+     "name": "Play as Ken Rosenberg",
+     "cat": "Player",
+     "ps": [
+      "Right",
+      "L1",
+      "Up",
+      "L2",
+      "L1",
+      "Right",
+      "R1",
+      "L1",
+      "Cross",
+      "R1"
+     ],
+     "xbox": [
+      "Right",
+      "LB",
+      "Up",
+      "LT",
+      "LB",
+      "Right",
+      "RB",
+      "LB",
+      "A",
+      "RB"
+     ],
+     "pc": "MYSONISALAWYER"
+    },
+    {
+     "name": "Play as Lance Vance",
+     "cat": "Player",
+     "ps": [
+      "Circle",
+      "L2",
+      "Left",
+      "Cross",
+      "R1",
+      "L1",
+      "Cross",
+      "L1"
+     ],
+     "xbox": [
+      "B",
+      "LT",
+      "Left",
+      "A",
+      "RB",
+      "LB",
+      "A",
+      "LB"
+     ],
+     "pc": "LOOKLIKELANCE"
+    },
+    {
+     "name": "Play as Love Fist (Jezz)",
+     "cat": "Player",
+     "ps": [
+      "Down",
+      "L1",
+      "Down",
+      "L2",
+      "Left",
+      "Cross",
+      "R1",
+      "L1",
+      "Cross",
+      "Cross"
+     ],
+     "xbox": [
+      "Down",
+      "LB",
+      "Down",
+      "LT",
+      "Left",
+      "A",
+      "RB",
+      "LB",
+      "A",
+      "A"
+     ],
+     "pc": "ROCKANDROLLMAN"
+    },
+    {
+     "name": "Play as Love Fist (Dick)",
+     "cat": "Player",
+     "ps": [
+      "R1",
+      "L2",
+      "R2",
+      "L1",
+      "Right",
+      "R2",
+      "Left",
+      "Cross",
+      "Square",
+      "L1"
+     ],
+     "xbox": [
+      "RB",
+      "LT",
+      "RT",
+      "LB",
+      "Right",
+      "RT",
+      "Left",
+      "A",
+      "X",
+      "LB"
+     ],
+     "pc": "WELOVEOURDICK"
+    },
+    {
+     "name": "Play as Mercedes",
+     "cat": "Player",
+     "ps": [
+      "R2",
+      "L1",
+      "Up",
+      "L1",
+      "Right",
+      "R1",
+      "Right",
+      "Up",
+      "Circle",
+      "Triangle"
+     ],
+     "xbox": [
+      "RT",
+      "LB",
+      "Up",
+      "LB",
+      "Right",
+      "RB",
+      "Right",
+      "Up",
+      "B",
+      "Y"
+     ],
+     "pc": "FOXYLITTLETHING"
+    },
+    {
+     "name": "Play as Phil Cassidy",
+     "cat": "Player",
+     "ps": [
+      "Right",
+      "R1",
+      "Up",
+      "R2",
+      "L1",
+      "Right",
+      "R1",
+      "L1",
+      "Right",
+      "Circle"
+     ],
+     "xbox": [
+      "Right",
+      "RB",
+      "Up",
+      "RT",
+      "LB",
+      "Right",
+      "RB",
+      "LB",
+      "Right",
+      "B"
+     ],
+     "pc": "ONEARMEDBANDIT"
+    },
+    {
+     "name": "Play as Ricardo Diaz",
+     "cat": "Player",
+     "ps": [
+      "L1",
+      "L2",
+      "R1",
+      "R2",
+      "Down",
+      "L1",
+      "R2",
+      "L2"
+     ],
+     "xbox": [
+      "LB",
+      "LT",
+      "RB",
+      "RT",
+      "Down",
+      "LB",
+      "RT",
+      "LT"
+     ],
+     "pc": "CHEATSHAVEBEENCRACKED"
+    },
+    {
+     "name": "Play as Sonny Forelli",
+     "cat": "Player",
+     "ps": [
+      "Circle",
+      "L1",
+      "Circle",
+      "L2",
+      "Left",
+      "Cross",
+      "R1",
+      "L1",
+      "Cross",
+      "Cross"
+     ],
+     "xbox": [
+      "B",
+      "LB",
+      "B",
+      "LT",
+      "Left",
+      "A",
+      "RB",
+      "LB",
+      "A",
+      "A"
+     ],
+     "pc": "IDONTHAVETHEMONEYSONNY"
+    },
+    {
+     "name": "Spawn Rhino Tank",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "Circle",
+      "L1",
+      "Circle",
+      "Circle",
+      "Circle",
+      "L1",
+      "L2",
+      "R1",
+      "Triangle",
+      "Circle",
+      "Triangle"
+     ],
+     "xbox": [
+      "B",
+      "B",
+      "LB",
+      "B",
+      "B",
+      "B",
+      "LB",
+      "LT",
+      "RB",
+      "Y",
+      "B",
+      "Y"
+     ],
+     "pc": "PANZER"
+    },
+    {
+     "name": "Spawn Bloodring Banger",
+     "cat": "Vehicles",
+     "ps": [
+      "Up",
+      "Right",
+      "Right",
+      "L1",
+      "Right",
+      "Up",
+      "Square",
+      "L2"
+     ],
+     "xbox": [
+      "Up",
+      "Right",
+      "Right",
+      "LB",
+      "Right",
+      "Up",
+      "X",
+      "LT"
+     ],
+     "pc": "TRAVELINSTYLE"
+    },
+    {
+     "name": "Spawn Bloodring Racer",
+     "cat": "Vehicles",
+     "ps": [
+      "Down",
+      "R1",
+      "Circle",
+      "L2",
+      "L2",
+      "Cross",
+      "R1",
+      "L1",
+      "Left",
+      "Left"
+     ],
+     "xbox": [
+      "Down",
+      "RB",
+      "B",
+      "LT",
+      "LT",
+      "A",
+      "RB",
+      "LB",
+      "Left",
+      "Left"
+     ],
+     "pc": "GETTHEREQUICKLY"
+    },
+    {
+     "name": "Spawn Caddy",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "L1",
+      "Up",
+      "R1",
+      "L2",
+      "Cross",
+      "R1",
+      "L1",
+      "Circle",
+      "Cross"
+     ],
+     "xbox": [
+      "B",
+      "LB",
+      "Up",
+      "RB",
+      "LT",
+      "A",
+      "RB",
+      "LB",
+      "B",
+      "A"
+     ],
+     "pc": "BETTERTHANWALKING"
+    },
+    {
+     "name": "Spawn Hotring Racer 1",
+     "cat": "Vehicles",
+     "ps": [
+      "R1",
+      "Circle",
+      "R2",
+      "Right",
+      "L1",
+      "L2",
+      "Cross",
+      "Cross",
+      "Square",
+      "R1"
+     ],
+     "xbox": [
+      "RB",
+      "B",
+      "RT",
+      "Right",
+      "LB",
+      "LT",
+      "A",
+      "A",
+      "X",
+      "RB"
+     ],
+     "pc": "GETTHEREAMAZINGLYFAST"
+    },
+    {
+     "name": "Spawn Hotring Racer 2",
+     "cat": "Vehicles",
+     "ps": [
+      "R2",
+      "L1",
+      "Circle",
+      "Right",
+      "L1",
+      "R1",
+      "Right",
+      "Up",
+      "Circle",
+      "R2"
+     ],
+     "xbox": [
+      "RT",
+      "LB",
+      "B",
+      "Right",
+      "LB",
+      "RB",
+      "Right",
+      "Up",
+      "B",
+      "RT"
+     ],
+     "pc": "GETTHEREVERYFASTINDEED"
+    },
+    {
+     "name": "Spawn Love Fist Limo",
+     "cat": "Vehicles",
+     "ps": [
+      "R2",
+      "Up",
+      "L2",
+      "Left",
+      "Left",
+      "R1",
+      "L1",
+      "Circle",
+      "Right"
+     ],
+     "xbox": [
+      "RT",
+      "Up",
+      "LT",
+      "Left",
+      "Left",
+      "RB",
+      "LB",
+      "B",
+      "Right"
+     ],
+     "pc": "ROCKANDROLLCAR"
+    },
+    {
+     "name": "Spawn Romero's Hearse",
+     "cat": "Vehicles",
+     "ps": [
+      "Down",
+      "R2",
+      "Down",
+      "R1",
+      "L2",
+      "Left",
+      "R1",
+      "L1",
+      "Left",
+      "Right"
+     ],
+     "xbox": [
+      "Down",
+      "RT",
+      "Down",
+      "RB",
+      "LT",
+      "Left",
+      "RB",
+      "LB",
+      "Left",
+      "Right"
+     ],
+     "pc": "THELASTRIDE"
+    },
+    {
+     "name": "Spawn Sabre Turbo",
+     "cat": "Vehicles",
+     "ps": [
+      "Right",
+      "L2",
+      "Down",
+      "L2",
+      "L2",
+      "Cross",
+      "R1",
+      "L1",
+      "Circle",
+      "Left"
+     ],
+     "xbox": [
+      "Right",
+      "LT",
+      "Down",
+      "LT",
+      "LT",
+      "A",
+      "RB",
+      "LB",
+      "B",
+      "Left"
+     ],
+     "pc": "GETTHEREFAST"
+    },
+    {
+     "name": "Spawn Trashmaster",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "R1",
+      "Circle",
+      "R1",
+      "Left",
+      "Left",
+      "R1",
+      "L1",
+      "Circle",
+      "Right"
+     ],
+     "xbox": [
+      "B",
+      "RB",
+      "B",
+      "RB",
+      "Left",
+      "Left",
+      "RB",
+      "LB",
+      "B",
+      "Right"
+     ],
+     "pc": "RUBBISHCAR"
+    },
+    {
+     "name": "Flying Cars",
+     "cat": "Vehicles",
+     "ps": [
+      "Right",
+      "R2",
+      "Circle",
+      "R1",
+      "L2",
+      "Down",
+      "L1",
+      "R1"
+     ],
+     "xbox": [
+      "Right",
+      "RT",
+      "B",
+      "RB",
+      "LT",
+      "Down",
+      "LB",
+      "RB"
+     ],
+     "pc": "COMEFLYWITHME"
+    },
+    {
+     "name": "Flying Boats",
+     "cat": "Vehicles",
+     "pc": "AIRSHIP"
+    },
+    {
+     "name": "Cars Drive on Water",
+     "cat": "Vehicles",
+     "ps": [
+      "Right",
+      "R2",
+      "Circle",
+      "R1",
+      "L2",
+      "Square",
+      "R1",
+      "R2"
+     ],
+     "xbox": [
+      "Right",
+      "RT",
+      "B",
+      "RB",
+      "LT",
+      "X",
+      "RB",
+      "RT"
+     ],
+     "pc": "SEAWAYS"
+    },
+    {
+     "name": "Perfect Handling",
+     "cat": "Vehicles",
+     "ps": [
+      "Triangle",
+      "R1",
+      "R1",
+      "Left",
+      "R1",
+      "L1",
+      "R2",
+      "L1"
+     ],
+     "xbox": [
+      "Y",
+      "RB",
+      "RB",
+      "Left",
+      "RB",
+      "LB",
+      "RT",
+      "LB"
+     ],
+     "pc": "GRIPISEVERYTHING"
+    },
+    {
+     "name": "Destroy All Cars",
+     "cat": "Vehicles",
+     "ps": [
+      "R2",
+      "L2",
+      "R1",
+      "L1",
+      "L2",
+      "R2",
+      "Square",
+      "Triangle",
+      "Circle",
+      "Triangle",
+      "L2",
+      "L1"
+     ],
+     "xbox": [
+      "RT",
+      "LT",
+      "RB",
+      "LB",
+      "LT",
+      "RT",
+      "X",
+      "Y",
+      "B",
+      "Y",
+      "LT",
+      "LB"
+     ],
+     "pc": "BIGBANG"
+    },
+    {
+     "name": "Weird Wheels / Car Tweaks",
+     "cat": "Vehicles",
+     "ps": [
+      "R1",
+      "Cross",
+      "Triangle",
+      "Right",
+      "R2",
+      "Square",
+      "Up",
+      "Down",
+      "Square"
+     ],
+     "xbox": [
+      "RB",
+      "A",
+      "Y",
+      "Right",
+      "RT",
+      "X",
+      "Up",
+      "Down",
+      "X"
+     ],
+     "pc": "LOADSOFLITTLETHINGS"
+    },
+    {
+     "name": "Pink Traffic",
+     "cat": "Traffic",
+     "ps": [
+      "Circle",
+      "L1",
+      "Down",
+      "L2",
+      "Left",
+      "Cross",
+      "R1",
+      "L1",
+      "Right",
+      "Circle"
+     ],
+     "xbox": [
+      "B",
+      "LB",
+      "Down",
+      "LT",
+      "Left",
+      "A",
+      "RB",
+      "LB",
+      "Right",
+      "B"
+     ],
+     "pc": "AHAIRDRESSERSCAR"
+    },
+    {
+     "name": "Black Traffic",
+     "cat": "Traffic",
+     "ps": [
+      "Circle",
+      "L2",
+      "Up",
+      "R1",
+      "Left",
+      "Cross",
+      "R1",
+      "L1",
+      "Left",
+      "Circle"
+     ],
+     "xbox": [
+      "B",
+      "LT",
+      "Up",
+      "RB",
+      "Left",
+      "A",
+      "RB",
+      "LB",
+      "Left",
+      "B"
+     ],
+     "pc": "IWANTITPAINTEDBLACK"
+    },
+    {
+     "name": "Aggressive Drivers",
+     "cat": "Traffic",
+     "ps": [
+      "R2",
+      "Circle",
+      "R1",
+      "L2",
+      "Left",
+      "R1",
+      "L1",
+      "R2",
+      "L2"
+     ],
+     "xbox": [
+      "RT",
+      "B",
+      "RB",
+      "LT",
+      "Left",
+      "RB",
+      "LB",
+      "RT",
+      "LT"
+     ],
+     "pc": "MIAMITRAFFIC"
+    },
+    {
+     "name": "All Green Lights",
+     "cat": "Traffic",
+     "ps": [
+      "Right",
+      "R1",
+      "Up",
+      "L2",
+      "L2",
+      "Left",
+      "R1",
+      "L1",
+      "R1",
+      "R1"
+     ],
+     "xbox": [
+      "Right",
+      "RB",
+      "Up",
+      "LT",
+      "LT",
+      "Left",
+      "RB",
+      "LB",
+      "RB",
+      "RB"
+     ],
+     "pc": "GREENLIGHT"
+    },
+    {
+     "name": "Pedestrians Riot",
+     "cat": "Pedestrians",
+     "ps": [
+      "Down",
+      "Left",
+      "Up",
+      "Left",
+      "Cross",
+      "R2",
+      "R1",
+      "L2",
+      "L1"
+     ],
+     "xbox": [
+      "Down",
+      "Left",
+      "Up",
+      "Left",
+      "A",
+      "RT",
+      "RB",
+      "LT",
+      "LB"
+     ],
+     "pc": "FIGHTFIGHTFIGHT"
+    },
+    {
+     "name": "Pedestrians Attack You",
+     "cat": "Pedestrians",
+     "ps": [
+      "Down",
+      "Up",
+      "Up",
+      "Up",
+      "Cross",
+      "R2",
+      "R1",
+      "L2",
+      "L2"
+     ],
+     "xbox": [
+      "Down",
+      "Up",
+      "Up",
+      "Up",
+      "A",
+      "RT",
+      "RB",
+      "LT",
+      "LT"
+     ],
+     "pc": "NOBODYLIKESME"
+    },
+    {
+     "name": "Pedestrians Have Weapons",
+     "cat": "Pedestrians",
+     "ps": [
+      "R2",
+      "R1",
+      "Cross",
+      "Triangle",
+      "Cross",
+      "Triangle",
+      "Up",
+      "Down"
+     ],
+     "xbox": [
+      "RT",
+      "RB",
+      "A",
+      "Y",
+      "A",
+      "Y",
+      "Up",
+      "Down"
+     ],
+     "pc": "OURGODGIVENRIGHTTOBEARARMS"
+    },
+    {
+     "name": "Women Follow You",
+     "cat": "Pedestrians",
+     "ps": [
+      "Circle",
+      "Cross",
+      "L1",
+      "L1",
+      "R2",
+      "Cross",
+      "Cross",
+      "Circle",
+      "Triangle"
+     ],
+     "xbox": [
+      "B",
+      "A",
+      "LB",
+      "LB",
+      "RT",
+      "A",
+      "A",
+      "B",
+      "Y"
+     ],
+     "pc": "FANNYMAGNET"
+    },
+    {
+     "name": "Slow Motion",
+     "cat": "World",
+     "ps": [
+      "Triangle",
+      "Up",
+      "Right",
+      "Down",
+      "Square",
+      "R2",
+      "R1"
+     ],
+     "xbox": [
+      "Y",
+      "Up",
+      "Right",
+      "Down",
+      "X",
+      "RT",
+      "RB"
+     ],
+     "pc": "BOOOOOORING"
+    },
+    {
+     "name": "Fast Motion",
+     "cat": "World",
+     "ps": [
+      "Triangle",
+      "Up",
+      "Right",
+      "Down",
+      "L2",
+      "L1",
+      "Square"
+     ],
+     "xbox": [
+      "Y",
+      "Up",
+      "Right",
+      "Down",
+      "LT",
+      "LB",
+      "X"
+     ],
+     "pc": "ONSPEED"
+    },
+    {
+     "name": "Speed Up Clock",
+     "cat": "World",
+     "ps": [
+      "Circle",
+      "Circle",
+      "L1",
+      "Square",
+      "L1",
+      "Square",
+      "Square",
+      "Square",
+      "L1",
+      "Triangle",
+      "Circle",
+      "Triangle"
+     ],
+     "xbox": [
+      "B",
+      "B",
+      "LB",
+      "X",
+      "LB",
+      "X",
+      "X",
+      "X",
+      "LB",
+      "Y",
+      "B",
+      "Y"
+     ],
+     "pc": "LIFEISPASSINGMEBY"
+    },
+    {
+     "name": "Foggy Weather",
+     "cat": "Weather",
+     "ps": [
+      "R2",
+      "Cross",
+      "L1",
+      "L1",
+      "L2",
+      "L2",
+      "L2",
+      "Cross"
+     ],
+     "xbox": [
+      "RT",
+      "A",
+      "LB",
+      "LB",
+      "LT",
+      "LT",
+      "LT",
+      "A"
+     ],
+     "pc": "CANTSEEATHING"
+    },
+    {
+     "name": "Stormy Weather",
+     "cat": "Weather",
+     "ps": [
+      "R2",
+      "Cross",
+      "L1",
+      "L1",
+      "L2",
+      "L2",
+      "L2",
+      "Circle"
+     ],
+     "xbox": [
+      "RT",
+      "A",
+      "LB",
+      "LB",
+      "LT",
+      "LT",
+      "LT",
+      "B"
+     ],
+     "pc": "CATSANDDOGS"
+    },
+    {
+     "name": "Very Cloudy / Overcast",
+     "cat": "Weather",
+     "ps": [
+      "R2",
+      "Cross",
+      "L1",
+      "L1",
+      "L2",
+      "L2",
+      "L2",
+      "Square"
+     ],
+     "xbox": [
+      "RT",
+      "A",
+      "LB",
+      "LB",
+      "LT",
+      "LT",
+      "LT",
+      "X"
+     ],
+     "pc": "ABITDRIEG"
+    },
+    {
+     "name": "Cloudy Weather",
+     "cat": "Weather",
+     "ps": [
+      "R2",
+      "Cross",
+      "L1",
+      "L1",
+      "L2",
+      "L2",
+      "L2",
+      "Triangle"
+     ],
+     "xbox": [
+      "RT",
+      "A",
+      "LB",
+      "LB",
+      "LT",
+      "LT",
+      "LT",
+      "Y"
+     ]
+    },
+    {
+     "name": "Sunny Weather",
+     "cat": "Weather",
+     "pc": "ALOVELYDAY"
+    },
+    {
+     "name": "Partly Cloudy",
+     "cat": "Weather",
+     "pc": "APLEASANTDAY"
+    },
+    {
+     "name": "Thick Arms & Legs",
+     "cat": "Player",
+     "pc": "DEEPFRIEDMARSBARS"
+    },
+    {
+     "name": "Thin Arms & Legs",
+     "cat": "Player",
+     "pc": "PROGRAMMER"
+    },
+    {
+     "name": "Media Attention Meter",
+     "cat": "World",
+     "pc": "CHASESTAT"
+    }
+   ]
+  },
+  {
+   "id": "sa",
+   "title": "San Andreas",
+   "year": 2004,
+   "city": "Los Santos",
+   "color": "0xFF4CAF50",
+   "platforms": [
+    "ps",
+    "xbox",
+    "pc"
+   ],
+   "how": {
+    "ps": "Enter during gameplay (not paused). Works on PS2 and The Definitive Edition.",
+    "xbox": "Enter during gameplay. Buttons shown for the Definitive Edition (Xbox One / Series).",
+    "pc": "Type the code during gameplay (classic short codes; most also work in the Definitive Edition)."
+   },
+   "source": "GameFAQs / GameSpot (console), GTABase (PC)",
+   "cheats": [
+    {
+     "name": "Health, Armor & $250,000",
+     "cat": "Player",
+     "ps": [
+      "R1",
+      "R2",
+      "L1",
+      "Cross",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "xbox": [
+      "RB",
+      "RT",
+      "LB",
+      "A",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "pc": "HESOYAM"
+    },
+    {
+     "name": "Infinite Health",
+     "cat": "Player",
+     "ps": [
+      "Down",
+      "Cross",
+      "Right",
+      "Left",
+      "Right",
+      "R1",
+      "Right",
+      "Down",
+      "Up",
+      "Triangle"
+     ],
+     "xbox": [
+      "Down",
+      "A",
+      "Right",
+      "Left",
+      "Right",
+      "RB",
+      "Right",
+      "Down",
+      "Up",
+      "Y"
+     ],
+     "pc": "BAGUVIX",
+     "note": "Removed from Definitive Edition consoles"
+    },
+    {
+     "name": "Weapon Set 1",
+     "cat": "Weapons",
+     "ps": [
+      "R1",
+      "R2",
+      "L1",
+      "R2",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "xbox": [
+      "RB",
+      "RT",
+      "LB",
+      "RT",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Right",
+      "Up"
+     ],
+     "pc": "LXGIWYL"
+    },
+    {
+     "name": "Weapon Set 2",
+     "cat": "Weapons",
+     "ps": [
+      "R1",
+      "R2",
+      "L1",
+      "R2",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Down",
+      "Left"
+     ],
+     "xbox": [
+      "RB",
+      "RT",
+      "LB",
+      "RT",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Down",
+      "Left"
+     ],
+     "pc": "KJKSZPJ"
+    },
+    {
+     "name": "Weapon Set 3",
+     "cat": "Weapons",
+     "ps": [
+      "R1",
+      "R2",
+      "L1",
+      "R2",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Down",
+      "Down"
+     ],
+     "xbox": [
+      "RB",
+      "RT",
+      "LB",
+      "RT",
+      "Left",
+      "Down",
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Down",
+      "Down"
+     ],
+     "pc": "UZUMYMW"
+    },
+    {
+     "name": "Infinite Ammo",
+     "cat": "Weapons",
+     "ps": [
+      "L1",
+      "R1",
+      "Square",
+      "R1",
+      "Left",
+      "R2",
+      "R1",
+      "Left",
+      "Square",
+      "Down",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "LB",
+      "RB",
+      "X",
+      "RB",
+      "Left",
+      "RT",
+      "RB",
+      "Left",
+      "X",
+      "Down",
+      "LB",
+      "LB"
+     ],
+     "pc": "FULLCLIP"
+    },
+    {
+     "name": "Hitman Level in All Weapons",
+     "cat": "Weapons",
+     "ps": [
+      "Down",
+      "Square",
+      "Cross",
+      "Left",
+      "R1",
+      "R2",
+      "Left",
+      "Down",
+      "Down",
+      "L1",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "Down",
+      "X",
+      "A",
+      "Left",
+      "RB",
+      "RT",
+      "Left",
+      "Down",
+      "Down",
+      "LB",
+      "LB",
+      "LB"
+     ],
+     "pc": "PROFESSIONALKILLER"
+    },
+    {
+     "name": "Raise Wanted Level",
+     "cat": "Wanted",
+     "ps": [
+      "R1",
+      "R1",
+      "Circle",
+      "R2",
+      "Right",
+      "Left",
+      "Right",
+      "Left",
+      "Right",
+      "Left"
+     ],
+     "xbox": [
+      "RB",
+      "RB",
+      "B",
+      "RT",
+      "Right",
+      "Left",
+      "Right",
+      "Left",
+      "Right",
+      "Left"
+     ],
+     "pc": "OSRBLHH"
+    },
+    {
+     "name": "Remove Wanted Level",
+     "cat": "Wanted",
+     "ps": [
+      "R1",
+      "R1",
+      "Circle",
+      "R2",
+      "Up",
+      "Down",
+      "Up",
+      "Down",
+      "Up",
+      "Down"
+     ],
+     "xbox": [
+      "RB",
+      "RB",
+      "B",
+      "RT",
+      "Up",
+      "Down",
+      "Up",
+      "Down",
+      "Up",
+      "Down"
+     ],
+     "pc": "ASNAEB"
+    },
+    {
+     "name": "Six-Star Wanted Level",
+     "cat": "Wanted",
+     "ps": [
+      "Circle",
+      "Right",
+      "Circle",
+      "Right",
+      "Left",
+      "Square",
+      "Cross",
+      "Down"
+     ],
+     "xbox": [
+      "B",
+      "Right",
+      "B",
+      "Right",
+      "Left",
+      "X",
+      "A",
+      "Down"
+     ],
+     "pc": "LJSPQK"
+    },
+    {
+     "name": "Lock Wanted Level",
+     "cat": "Wanted",
+     "ps": [
+      "Circle",
+      "Right",
+      "Circle",
+      "Right",
+      "Left",
+      "Square",
+      "Triangle",
+      "Up"
+     ],
+     "xbox": [
+      "B",
+      "Right",
+      "B",
+      "Right",
+      "Left",
+      "X",
+      "Y",
+      "Up"
+     ],
+     "pc": "AEZAKMI"
+    },
+    {
+     "name": "Infinite Lung Capacity",
+     "cat": "Player",
+     "ps": [
+      "Down",
+      "Left",
+      "L1",
+      "Down",
+      "Down",
+      "R2",
+      "Down",
+      "L2",
+      "Down"
+     ],
+     "xbox": [
+      "Down",
+      "Left",
+      "LB",
+      "Down",
+      "Down",
+      "RT",
+      "Down",
+      "LT",
+      "Down"
+     ],
+     "pc": "CVWKXAM"
+    },
+    {
+     "name": "Super Jump",
+     "cat": "Player",
+     "ps": [
+      "Up",
+      "Up",
+      "Triangle",
+      "Triangle",
+      "Up",
+      "Up",
+      "Left",
+      "Right",
+      "Square",
+      "R2",
+      "R2"
+     ],
+     "xbox": [
+      "Up",
+      "Up",
+      "Y",
+      "Y",
+      "Up",
+      "Up",
+      "Left",
+      "Right",
+      "X",
+      "RT",
+      "RT"
+     ],
+     "pc": "KANGAROO"
+    },
+    {
+     "name": "Super Punch",
+     "cat": "Player",
+     "ps": [
+      "Up",
+      "Left",
+      "Cross",
+      "Triangle",
+      "R1",
+      "Circle",
+      "Circle",
+      "Circle",
+      "L2"
+     ],
+     "xbox": [
+      "Up",
+      "Left",
+      "A",
+      "Y",
+      "RB",
+      "B",
+      "B",
+      "B",
+      "LT"
+     ],
+     "pc": "IAVENJQ"
+    },
+    {
+     "name": "Max Fat",
+     "cat": "Player",
+     "ps": [
+      "Triangle",
+      "Up",
+      "Up",
+      "Left",
+      "Right",
+      "Square",
+      "Circle",
+      "Down"
+     ],
+     "xbox": [
+      "Y",
+      "Up",
+      "Up",
+      "Left",
+      "Right",
+      "X",
+      "B",
+      "Down"
+     ],
+     "pc": "BTCDBCB"
+    },
+    {
+     "name": "Max Muscle",
+     "cat": "Player",
+     "ps": [
+      "Triangle",
+      "Up",
+      "Up",
+      "Left",
+      "Right",
+      "Square",
+      "Circle",
+      "Left"
+     ],
+     "xbox": [
+      "Y",
+      "Up",
+      "Up",
+      "Left",
+      "Right",
+      "X",
+      "B",
+      "Left"
+     ],
+     "pc": "BUFFMEUP"
+    },
+    {
+     "name": "Min Fat & Muscle",
+     "cat": "Player",
+     "ps": [
+      "Triangle",
+      "Up",
+      "Up",
+      "Left",
+      "Right",
+      "Square",
+      "Circle",
+      "Right"
+     ],
+     "xbox": [
+      "Y",
+      "Up",
+      "Up",
+      "Left",
+      "Right",
+      "X",
+      "B",
+      "Right"
+     ],
+     "pc": "KVGYZQK"
+    },
+    {
+     "name": "Max Respect",
+     "cat": "Player",
+     "ps": [
+      "L1",
+      "R1",
+      "Triangle",
+      "Down",
+      "R2",
+      "Cross",
+      "L1",
+      "Up",
+      "L2",
+      "L2",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "LB",
+      "RB",
+      "Y",
+      "Down",
+      "RT",
+      "A",
+      "LB",
+      "Up",
+      "LT",
+      "LT",
+      "LB",
+      "LB"
+     ],
+     "pc": "OGXSDAG"
+    },
+    {
+     "name": "Max Sex Appeal",
+     "cat": "Player",
+     "ps": [
+      "Circle",
+      "Triangle",
+      "Triangle",
+      "Up",
+      "Circle",
+      "R1",
+      "L2",
+      "Up",
+      "Triangle",
+      "L1",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "B",
+      "Y",
+      "Y",
+      "Up",
+      "B",
+      "RB",
+      "LT",
+      "Up",
+      "Y",
+      "LB",
+      "LB",
+      "LB"
+     ],
+     "pc": "EHIBXQS"
+    },
+    {
+     "name": "Max Vehicle Skills",
+     "cat": "Player",
+     "ps": [
+      "Square",
+      "L2",
+      "Cross",
+      "R1",
+      "L2",
+      "L2",
+      "Left",
+      "R1",
+      "Right",
+      "L1",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "X",
+      "LT",
+      "A",
+      "RB",
+      "LT",
+      "LT",
+      "Left",
+      "RB",
+      "Right",
+      "LB",
+      "LB",
+      "LB"
+     ],
+     "pc": "NATURALTALENT"
+    },
+    {
+     "name": "Never Hungry",
+     "cat": "Player",
+     "ps": [
+      "Square",
+      "L2",
+      "R1",
+      "Triangle",
+      "Up",
+      "Square",
+      "L2",
+      "Up",
+      "Cross"
+     ],
+     "xbox": [
+      "X",
+      "LT",
+      "RB",
+      "Y",
+      "Up",
+      "X",
+      "LT",
+      "Up",
+      "A"
+     ],
+     "pc": "AEDUWNV",
+     "note": "Removed from Definitive Edition"
+    },
+    {
+     "name": "Adrenaline Mode",
+     "cat": "Player",
+     "ps": [
+      "Cross",
+      "Cross",
+      "Square",
+      "R1",
+      "L1",
+      "Cross",
+      "Down",
+      "Left",
+      "Cross"
+     ],
+     "xbox": [
+      "A",
+      "A",
+      "X",
+      "RB",
+      "LB",
+      "A",
+      "Down",
+      "Left",
+      "A"
+     ],
+     "pc": "MUNASEF",
+     "note": "Removed from Definitive Edition"
+    },
+    {
+     "name": "Spawn Jetpack",
+     "cat": "Vehicles",
+     "ps": [
+      "Left",
+      "Right",
+      "L1",
+      "L2",
+      "R1",
+      "R2",
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+     ],
+     "xbox": [
+      "Left",
+      "Right",
+      "LB",
+      "LT",
+      "RB",
+      "RT",
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+     ],
+     "pc": "ROCKETMAN"
+    },
+    {
+     "name": "Spawn Parachute",
+     "cat": "Vehicles",
+     "ps": [
+      "Left",
+      "Right",
+      "L1",
+      "L2",
+      "R1",
+      "R2",
+      "R2",
+      "Up",
+      "Down",
+      "Right",
+      "L1"
+     ],
+     "xbox": [
+      "Left",
+      "Right",
+      "LB",
+      "LT",
+      "RB",
+      "RT",
+      "RT",
+      "Up",
+      "Down",
+      "Right",
+      "LB"
+     ],
+     "pc": "AIYPWZQP"
+    },
+    {
+     "name": "Spawn Rhino Tank",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "Circle",
+      "L1",
+      "Circle",
+      "Circle",
+      "Circle",
+      "L1",
+      "L2",
+      "R1",
+      "Triangle",
+      "Circle",
+      "Triangle"
+     ],
+     "xbox": [
+      "B",
+      "B",
+      "LB",
+      "B",
+      "B",
+      "B",
+      "LB",
+      "LT",
+      "RB",
+      "Y",
+      "B",
+      "Y"
+     ],
+     "pc": "AIWPRTON"
+    },
+    {
+     "name": "Spawn Hunter",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "Cross",
+      "L1",
+      "Circle",
+      "Circle",
+      "L1",
+      "Circle",
+      "R1",
+      "R2",
+      "L2",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "B",
+      "A",
+      "LB",
+      "B",
+      "B",
+      "LB",
+      "B",
+      "RB",
+      "RT",
+      "LT",
+      "LB",
+      "LB"
+     ],
+     "pc": "OHDUDE"
+    },
+    {
+     "name": "Spawn Hydra",
+     "cat": "Vehicles",
+     "ps": [
+      "Triangle",
+      "Triangle",
+      "Square",
+      "Circle",
+      "Cross",
+      "L1",
+      "L1",
+      "Down",
+      "Up"
+     ],
+     "xbox": [
+      "Y",
+      "Y",
+      "X",
+      "B",
+      "A",
+      "LB",
+      "LB",
+      "Down",
+      "Up"
+     ],
+     "pc": "JUMPJET"
+    },
+    {
+     "name": "Spawn Vortex Hovercraft",
+     "cat": "Vehicles",
+     "ps": [
+      "Triangle",
+      "Triangle",
+      "Square",
+      "Circle",
+      "Cross",
+      "L1",
+      "L2",
+      "Down",
+      "Down"
+     ],
+     "xbox": [
+      "Y",
+      "Y",
+      "X",
+      "B",
+      "A",
+      "LB",
+      "LT",
+      "Down",
+      "Down"
+     ],
+     "pc": "KGGGDKP"
+    },
+    {
+     "name": "Spawn Monster Truck",
+     "cat": "Vehicles",
+     "ps": [
+      "Right",
+      "Up",
+      "R1",
+      "R1",
+      "R1",
+      "Down",
+      "Triangle",
+      "Triangle",
+      "Cross",
+      "Circle",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "Right",
+      "Up",
+      "RB",
+      "RB",
+      "RB",
+      "Down",
+      "Y",
+      "Y",
+      "A",
+      "B",
+      "LB",
+      "LB"
+     ],
+     "pc": "AGBDLCID"
+    },
+    {
+     "name": "Spawn Stunt Plane",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "Up",
+      "L1",
+      "L2",
+      "Down",
+      "R1",
+      "L1",
+      "L1",
+      "Left",
+      "Left",
+      "Cross",
+      "Triangle"
+     ],
+     "xbox": [
+      "B",
+      "Up",
+      "LB",
+      "LT",
+      "Down",
+      "RB",
+      "LB",
+      "LB",
+      "Left",
+      "Left",
+      "A",
+      "Y"
+     ],
+     "pc": "URKQSRK"
+    },
+    {
+     "name": "Spawn Quad Bike",
+     "cat": "Vehicles",
+     "ps": [
+      "Left",
+      "Left",
+      "Down",
+      "Down",
+      "Up",
+      "Up",
+      "Square",
+      "Circle",
+      "Triangle",
+      "R1",
+      "R2"
+     ],
+     "xbox": [
+      "Left",
+      "Left",
+      "Down",
+      "Down",
+      "Up",
+      "Up",
+      "X",
+      "B",
+      "Y",
+      "RB",
+      "RT"
+     ],
+     "pc": "AKJJYGLC"
+    },
+    {
+     "name": "Spawn Bloodring Banger",
+     "cat": "Vehicles",
+     "ps": [
+      "Down",
+      "R1",
+      "Circle",
+      "L2",
+      "L2",
+      "Cross",
+      "R1",
+      "L1",
+      "Left",
+      "Left"
+     ],
+     "xbox": [
+      "Down",
+      "RB",
+      "B",
+      "LT",
+      "LT",
+      "A",
+      "RB",
+      "LB",
+      "Left",
+      "Left"
+     ],
+     "pc": "CQZIJMB"
+    },
+    {
+     "name": "Spawn Rancher",
+     "cat": "Vehicles",
+     "ps": [
+      "Up",
+      "Right",
+      "Right",
+      "L1",
+      "Right",
+      "Up",
+      "Square",
+      "L2"
+     ],
+     "xbox": [
+      "Up",
+      "Right",
+      "Right",
+      "LB",
+      "Right",
+      "Up",
+      "X",
+      "LT"
+     ],
+     "pc": "JQNTDMH"
+    },
+    {
+     "name": "Spawn Hotring Racer A",
+     "cat": "Vehicles",
+     "ps": [
+      "R1",
+      "Circle",
+      "R2",
+      "Right",
+      "L1",
+      "L2",
+      "Cross",
+      "Cross",
+      "Square",
+      "R1"
+     ],
+     "xbox": [
+      "RB",
+      "B",
+      "RT",
+      "Right",
+      "LB",
+      "LT",
+      "A",
+      "A",
+      "X",
+      "RB"
+     ],
+     "pc": "PDNEJOH"
+    },
+    {
+     "name": "Spawn Hotring Racer B",
+     "cat": "Vehicles",
+     "ps": [
+      "R2",
+      "L1",
+      "Circle",
+      "Right",
+      "L1",
+      "R1",
+      "Right",
+      "Up",
+      "Circle",
+      "R2"
+     ],
+     "xbox": [
+      "RT",
+      "LB",
+      "B",
+      "Right",
+      "LB",
+      "RB",
+      "Right",
+      "Up",
+      "B",
+      "RT"
+     ],
+     "pc": "VPJTQWV"
+    },
+    {
+     "name": "Spawn Romero Hearse",
+     "cat": "Vehicles",
+     "ps": [
+      "Down",
+      "R2",
+      "Down",
+      "R1",
+      "L2",
+      "Left",
+      "R1",
+      "L1",
+      "Left",
+      "Right"
+     ],
+     "xbox": [
+      "Down",
+      "RT",
+      "Down",
+      "RB",
+      "LT",
+      "Left",
+      "RB",
+      "LB",
+      "Left",
+      "Right"
+     ],
+     "pc": "AQTBCODX"
+    },
+    {
+     "name": "Spawn Stretch Limo",
+     "cat": "Vehicles",
+     "ps": [
+      "R2",
+      "Up",
+      "L2",
+      "Left",
+      "Left",
+      "R1",
+      "L1",
+      "Circle",
+      "Right"
+     ],
+     "xbox": [
+      "RT",
+      "Up",
+      "LT",
+      "Left",
+      "Left",
+      "RB",
+      "LB",
+      "B",
+      "Right"
+     ],
+     "pc": "KRIJEBR"
+    },
+    {
+     "name": "Spawn Trashmaster",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "R1",
+      "Circle",
+      "R1",
+      "Left",
+      "Left",
+      "R1",
+      "L1",
+      "Circle",
+      "Right"
+     ],
+     "xbox": [
+      "B",
+      "RB",
+      "B",
+      "RB",
+      "Left",
+      "Left",
+      "RB",
+      "LB",
+      "B",
+      "Right"
+     ],
+     "pc": "UBHYZHQ"
+    },
+    {
+     "name": "Spawn Caddy",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "L1",
+      "Up",
+      "R1",
+      "L2",
+      "Cross",
+      "R1",
+      "L1",
+      "Circle",
+      "Cross"
+     ],
+     "xbox": [
+      "B",
+      "LB",
+      "Up",
+      "RB",
+      "LT",
+      "A",
+      "RB",
+      "LB",
+      "B",
+      "A"
+     ],
+     "pc": "RZHSUEW"
+    },
+    {
+     "name": "Spawn Dozer",
+     "cat": "Vehicles",
+     "ps": [
+      "R2",
+      "L1",
+      "L1",
+      "Right",
+      "Right",
+      "Up",
+      "Up",
+      "Cross",
+      "L1",
+      "Left"
+     ],
+     "xbox": [
+      "RT",
+      "LB",
+      "LB",
+      "Right",
+      "Right",
+      "Up",
+      "Up",
+      "A",
+      "LB",
+      "Left"
+     ],
+     "pc": "EEGCYXT"
+    },
+    {
+     "name": "Spawn Tanker",
+     "cat": "Vehicles",
+     "ps": [
+      "R1",
+      "Up",
+      "Left",
+      "Right",
+      "R2",
+      "Up",
+      "Right",
+      "Square",
+      "Right",
+      "L2",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "RB",
+      "Up",
+      "Left",
+      "Right",
+      "RT",
+      "Up",
+      "Right",
+      "X",
+      "Right",
+      "LT",
+      "LB",
+      "LB"
+     ],
+     "pc": "AMOMHRER"
+    },
+    {
+     "name": "Flying Cars",
+     "cat": "Vehicles",
+     "ps": [
+      "Square",
+      "Down",
+      "L2",
+      "Up",
+      "L1",
+      "Circle",
+      "Up",
+      "Cross",
+      "Left"
+     ],
+     "xbox": [
+      "X",
+      "Down",
+      "LT",
+      "Up",
+      "LB",
+      "B",
+      "Up",
+      "A",
+      "Left"
+     ],
+     "pc": "RIPAZHA"
+    },
+    {
+     "name": "Flying Boats",
+     "cat": "Vehicles",
+     "ps": [
+      "R2",
+      "Circle",
+      "Up",
+      "L1",
+      "Right",
+      "R1",
+      "Right",
+      "Up",
+      "Square",
+      "Triangle"
+     ],
+     "xbox": [
+      "RT",
+      "B",
+      "Up",
+      "LB",
+      "Right",
+      "RB",
+      "Right",
+      "Up",
+      "X",
+      "Y"
+     ],
+     "pc": "AFSNMSMW"
+    },
+    {
+     "name": "Cars Drive on Water",
+     "cat": "Vehicles",
+     "ps": [
+      "Right",
+      "R2",
+      "Circle",
+      "R1",
+      "L2",
+      "Square",
+      "R1",
+      "R2"
+     ],
+     "xbox": [
+      "Right",
+      "RT",
+      "B",
+      "RB",
+      "LT",
+      "X",
+      "RB",
+      "RT"
+     ],
+     "pc": "DRIVEONWATER"
+    },
+    {
+     "name": "Vehicle of Death (smash cars)",
+     "cat": "Vehicles",
+     "ps": [
+      "L1",
+      "L2",
+      "L2",
+      "Up",
+      "Down",
+      "Down",
+      "Up",
+      "R1",
+      "R2",
+      "R2"
+     ],
+     "xbox": [
+      "LB",
+      "LT",
+      "LT",
+      "Up",
+      "Down",
+      "Down",
+      "Up",
+      "RB",
+      "RT",
+      "RT"
+     ],
+     "pc": "JCNRUAD"
+    },
+    {
+     "name": "Destroy All Cars",
+     "cat": "Vehicles",
+     "ps": [
+      "R2",
+      "L2",
+      "R1",
+      "L1",
+      "L2",
+      "R2",
+      "Square",
+      "Triangle",
+      "Circle",
+      "Triangle",
+      "L2",
+      "L1"
+     ],
+     "xbox": [
+      "RT",
+      "LT",
+      "RB",
+      "LB",
+      "LT",
+      "RT",
+      "X",
+      "Y",
+      "B",
+      "Y",
+      "LT",
+      "LB"
+     ],
+     "pc": "CPKTNWT"
+    },
+    {
+     "name": "Perfect Handling",
+     "cat": "Vehicles",
+     "ps": [
+      "Triangle",
+      "R1",
+      "R1",
+      "Left",
+      "R1",
+      "L1",
+      "R2",
+      "L1"
+     ],
+     "xbox": [
+      "Y",
+      "RB",
+      "RB",
+      "Left",
+      "RB",
+      "LB",
+      "RT",
+      "LB"
+     ],
+     "pc": "PGGOMOY"
+    },
+    {
+     "name": "All Cars Have Nitro",
+     "cat": "Vehicles",
+     "ps": [
+      "Left",
+      "Triangle",
+      "R1",
+      "L1",
+      "Up",
+      "Square",
+      "Triangle",
+      "Down",
+      "Circle",
+      "L2",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "Left",
+      "Y",
+      "RB",
+      "LB",
+      "Up",
+      "X",
+      "Y",
+      "Down",
+      "B",
+      "LT",
+      "LB",
+      "LB"
+     ],
+     "pc": "COXEFGU"
+    },
+    {
+     "name": "Taxis Have Nitro",
+     "cat": "Vehicles",
+     "ps": [
+      "Up",
+      "Cross",
+      "Triangle",
+      "Cross",
+      "Triangle",
+      "Cross",
+      "Square",
+      "R2",
+      "Right"
+     ],
+     "xbox": [
+      "Up",
+      "A",
+      "Y",
+      "A",
+      "Y",
+      "A",
+      "X",
+      "RT",
+      "Right"
+     ],
+     "pc": "TAXINITRO"
+    },
+    {
+     "name": "Bike Super Jump",
+     "cat": "Vehicles",
+     "ps": [
+      "Triangle",
+      "Square",
+      "Circle",
+      "Circle",
+      "Square",
+      "Circle",
+      "Circle",
+      "L1",
+      "L2",
+      "L2",
+      "R1",
+      "R2"
+     ],
+     "xbox": [
+      "Y",
+      "X",
+      "B",
+      "B",
+      "X",
+      "B",
+      "B",
+      "LB",
+      "LT",
+      "LT",
+      "RB",
+      "RT"
+     ],
+     "pc": "CJPHONEHOME"
+    },
+    {
+     "name": "Cars Float Away When Hit",
+     "cat": "Vehicles",
+     "ps": [
+      "Square",
+      "R2",
+      "Down",
+      "Down",
+      "Left",
+      "Down",
+      "Left",
+      "Left",
+      "L2",
+      "Cross"
+     ],
+     "xbox": [
+      "X",
+      "RT",
+      "Down",
+      "Down",
+      "Left",
+      "Down",
+      "Left",
+      "Left",
+      "LT",
+      "A"
+     ],
+     "pc": "BSXSGGC",
+     "note": "Removed from Definitive Edition"
+    },
+    {
+     "name": "Invisible Cars",
+     "cat": "Vehicles",
+     "ps": [
+      "Triangle",
+      "L1",
+      "Triangle",
+      "R2",
+      "Square",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "Y",
+      "LB",
+      "Y",
+      "RT",
+      "X",
+      "LB",
+      "LB"
+     ],
+     "pc": "XICWMD",
+     "note": "Removed from Definitive Edition"
+    },
+    {
+     "name": "Pink Traffic",
+     "cat": "Traffic",
+     "ps": [
+      "Circle",
+      "L1",
+      "Down",
+      "L2",
+      "Left",
+      "Cross",
+      "R1",
+      "L1",
+      "Right",
+      "Circle"
+     ],
+     "xbox": [
+      "B",
+      "LB",
+      "Down",
+      "LT",
+      "Left",
+      "A",
+      "RB",
+      "LB",
+      "Right",
+      "B"
+     ],
+     "pc": "LLQPFBN"
+    },
+    {
+     "name": "Black Traffic",
+     "cat": "Traffic",
+     "ps": [
+      "Circle",
+      "L2",
+      "Up",
+      "R1",
+      "Left",
+      "Cross",
+      "R1",
+      "L1",
+      "Left",
+      "Circle"
+     ],
+     "xbox": [
+      "B",
+      "LT",
+      "Up",
+      "RB",
+      "Left",
+      "A",
+      "RB",
+      "LB",
+      "Left",
+      "B"
+     ],
+     "pc": "IOWDLAC"
+    },
+    {
+     "name": "Junk Car Traffic",
+     "cat": "Traffic",
+     "ps": [
+      "L2",
+      "Right",
+      "L1",
+      "Up",
+      "Cross",
+      "L1",
+      "L2",
+      "R2",
+      "R1",
+      "L1",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "LT",
+      "Right",
+      "LB",
+      "Up",
+      "A",
+      "LB",
+      "LT",
+      "RT",
+      "RB",
+      "LB",
+      "LB",
+      "LB"
+     ],
+     "pc": "BGKGTJH"
+    },
+    {
+     "name": "Country Traffic",
+     "cat": "Traffic",
+     "ps": [
+      "Triangle",
+      "Left",
+      "Square",
+      "R2",
+      "Up",
+      "L2",
+      "Down",
+      "L1",
+      "Cross",
+      "L1",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "Y",
+      "Left",
+      "X",
+      "RT",
+      "Up",
+      "LT",
+      "Down",
+      "LB",
+      "A",
+      "LB",
+      "LB",
+      "LB"
+     ],
+     "pc": "FVTMNBZ"
+    },
+    {
+     "name": "Aggressive Drivers",
+     "cat": "Traffic",
+     "ps": [
+      "Right",
+      "R2",
+      "Up",
+      "Up",
+      "R2",
+      "Circle",
+      "Square",
+      "R2",
+      "L1",
+      "Right",
+      "Down",
+      "L1"
+     ],
+     "xbox": [
+      "Right",
+      "RT",
+      "Up",
+      "Up",
+      "RT",
+      "B",
+      "X",
+      "RT",
+      "LB",
+      "Right",
+      "Down",
+      "LB"
+     ],
+     "pc": "YLTEICZ"
+    },
+    {
+     "name": "All Green Lights",
+     "cat": "Traffic",
+     "ps": [
+      "Right",
+      "R1",
+      "Up",
+      "L2",
+      "L2",
+      "Left",
+      "R1",
+      "L1",
+      "R1",
+      "R1"
+     ],
+     "xbox": [
+      "Right",
+      "RB",
+      "Up",
+      "LT",
+      "LT",
+      "Left",
+      "RB",
+      "LB",
+      "RB",
+      "RB"
+     ],
+     "pc": "ZEIIVG"
+    },
+    {
+     "name": "Reduced Traffic",
+     "cat": "Traffic",
+     "ps": [
+      "Cross",
+      "Down",
+      "Up",
+      "R2",
+      "Down",
+      "Triangle",
+      "L1",
+      "Triangle",
+      "Left"
+     ],
+     "xbox": [
+      "A",
+      "Down",
+      "Up",
+      "RT",
+      "Down",
+      "Y",
+      "LB",
+      "Y",
+      "Left"
+     ],
+     "pc": "THGLOJ"
+    },
+    {
+     "name": "Chaos Mode",
+     "cat": "Pedestrians",
+     "ps": [
+      "L2",
+      "Right",
+      "L1",
+      "Triangle",
+      "Right",
+      "Right",
+      "R1",
+      "L1",
+      "Right",
+      "L1",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "LT",
+      "Right",
+      "LB",
+      "Y",
+      "Right",
+      "Right",
+      "RB",
+      "LB",
+      "Right",
+      "LB",
+      "LB",
+      "LB"
+     ],
+     "pc": "STATEOFEMERGENCY"
+    },
+    {
+     "name": "Pedestrians Riot",
+     "cat": "Pedestrians",
+     "ps": [
+      "Down",
+      "Left",
+      "Up",
+      "Left",
+      "Cross",
+      "R2",
+      "R1",
+      "L2",
+      "L1"
+     ],
+     "xbox": [
+      "Down",
+      "Left",
+      "Up",
+      "Left",
+      "A",
+      "RT",
+      "RB",
+      "LT",
+      "LB"
+     ],
+     "pc": "AJLOJYQY"
+    },
+    {
+     "name": "Pedestrians Attack You",
+     "cat": "Pedestrians",
+     "ps": [
+      "Down",
+      "Up",
+      "Up",
+      "Up",
+      "Cross",
+      "R2",
+      "R1",
+      "L2",
+      "L2"
+     ],
+     "xbox": [
+      "Down",
+      "Up",
+      "Up",
+      "Up",
+      "A",
+      "RT",
+      "RB",
+      "LT",
+      "LT"
+     ],
+     "pc": "BAGOWPG"
+    },
+    {
+     "name": "Pedestrians Attack With Guns",
+     "cat": "Pedestrians",
+     "ps": [
+      "Cross",
+      "L1",
+      "Up",
+      "Square",
+      "Down",
+      "Cross",
+      "L2",
+      "Triangle",
+      "Down",
+      "R1",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "A",
+      "LB",
+      "Up",
+      "X",
+      "Down",
+      "A",
+      "LT",
+      "Y",
+      "Down",
+      "RB",
+      "LB",
+      "LB"
+     ],
+     "pc": "BGLUAWML"
+    },
+    {
+     "name": "Pedestrians Have Weapons",
+     "cat": "Pedestrians",
+     "ps": [
+      "R2",
+      "R1",
+      "Cross",
+      "Triangle",
+      "Cross",
+      "Triangle",
+      "Up",
+      "Down"
+     ],
+     "xbox": [
+      "RT",
+      "RB",
+      "A",
+      "Y",
+      "A",
+      "Y",
+      "Up",
+      "Down"
+     ],
+     "pc": "FOOOXFT"
+    },
+    {
+     "name": "Elvis Everywhere",
+     "cat": "Pedestrians",
+     "ps": [
+      "L1",
+      "Circle",
+      "Triangle",
+      "L1",
+      "L1",
+      "Square",
+      "L2",
+      "Up",
+      "Down",
+      "Left"
+     ],
+     "xbox": [
+      "LB",
+      "B",
+      "Y",
+      "LB",
+      "LB",
+      "X",
+      "LT",
+      "Up",
+      "Down",
+      "Left"
+     ],
+     "pc": "ASBHGRB"
+    },
+    {
+     "name": "Gang Members Everywhere",
+     "cat": "Pedestrians",
+     "ps": [
+      "L2",
+      "Up",
+      "R1",
+      "R1",
+      "Left",
+      "R1",
+      "R1",
+      "R2",
+      "Right",
+      "Down"
+     ],
+     "xbox": [
+      "LT",
+      "Up",
+      "RB",
+      "RB",
+      "Left",
+      "RB",
+      "RB",
+      "RT",
+      "Right",
+      "Down"
+     ],
+     "pc": "MROEMZH"
+    },
+    {
+     "name": "Beach Party Theme",
+     "cat": "Pedestrians",
+     "ps": [
+      "Up",
+      "Up",
+      "Down",
+      "Down",
+      "Square",
+      "Circle",
+      "L1",
+      "R1",
+      "Triangle",
+      "Down"
+     ],
+     "xbox": [
+      "Up",
+      "Up",
+      "Down",
+      "Down",
+      "X",
+      "B",
+      "LB",
+      "RB",
+      "Y",
+      "Down"
+     ],
+     "pc": "CIKGCGX"
+    },
+    {
+     "name": "Funhouse Theme",
+     "cat": "Pedestrians",
+     "ps": [
+      "Triangle",
+      "Triangle",
+      "L1",
+      "Square",
+      "Square",
+      "Circle",
+      "Square",
+      "Down",
+      "Circle"
+     ],
+     "xbox": [
+      "Y",
+      "Y",
+      "LB",
+      "X",
+      "X",
+      "B",
+      "X",
+      "Down",
+      "B"
+     ],
+     "pc": "PRIEBJ"
+    },
+    {
+     "name": "Ninja Theme",
+     "cat": "Pedestrians",
+     "ps": [
+      "Cross",
+      "Cross",
+      "Down",
+      "R2",
+      "L2",
+      "Circle",
+      "R1",
+      "Circle",
+      "Square"
+     ],
+     "xbox": [
+      "A",
+      "A",
+      "Down",
+      "RT",
+      "LT",
+      "B",
+      "RB",
+      "B",
+      "X"
+     ],
+     "pc": "AFPHULTL"
+    },
+    {
+     "name": "Recruit Anyone (Pistol)",
+     "cat": "Pedestrians",
+     "ps": [
+      "Down",
+      "Square",
+      "Up",
+      "R2",
+      "R2",
+      "Up",
+      "Right",
+      "Right",
+      "Up"
+     ],
+     "xbox": [
+      "Down",
+      "X",
+      "Up",
+      "RT",
+      "RT",
+      "Up",
+      "Right",
+      "Right",
+      "Up"
+     ],
+     "pc": "SJMAHPE"
+    },
+    {
+     "name": "Recruit Anyone (Rockets)",
+     "cat": "Pedestrians",
+     "ps": [
+      "R2",
+      "R2",
+      "R2",
+      "Cross",
+      "L2",
+      "L1",
+      "R2",
+      "L1",
+      "Down",
+      "Cross"
+     ],
+     "xbox": [
+      "RT",
+      "RT",
+      "RT",
+      "A",
+      "LT",
+      "LB",
+      "RT",
+      "LB",
+      "Down",
+      "A"
+     ],
+     "pc": "ZSOXFSQ"
+    },
+    {
+     "name": "Slow Motion",
+     "cat": "World",
+     "ps": [
+      "Triangle",
+      "Up",
+      "Right",
+      "Down",
+      "Square",
+      "R2",
+      "R1"
+     ],
+     "xbox": [
+      "Y",
+      "Up",
+      "Right",
+      "Down",
+      "X",
+      "RT",
+      "RB"
+     ],
+     "pc": "LIYOAAY"
+    },
+    {
+     "name": "Fast Motion",
+     "cat": "World",
+     "ps": [
+      "Triangle",
+      "Up",
+      "Right",
+      "Down",
+      "L2",
+      "L1",
+      "Square"
+     ],
+     "xbox": [
+      "Y",
+      "Up",
+      "Right",
+      "Down",
+      "LT",
+      "LB",
+      "X"
+     ],
+     "pc": "PPGWJHT"
+    },
+    {
+     "name": "Speed Up Clock",
+     "cat": "World",
+     "ps": [
+      "Circle",
+      "Circle",
+      "L1",
+      "Square",
+      "L1",
+      "Square",
+      "Square",
+      "Square",
+      "L1",
+      "Triangle",
+      "Circle",
+      "Triangle"
+     ],
+     "xbox": [
+      "B",
+      "B",
+      "LB",
+      "X",
+      "LB",
+      "X",
+      "X",
+      "X",
+      "LB",
+      "Y",
+      "B",
+      "Y"
+     ],
+     "pc": "YSOHNUL"
+    },
+    {
+     "name": "Always Midnight",
+     "cat": "World",
+     "ps": [
+      "Square",
+      "L1",
+      "R1",
+      "Right",
+      "Cross",
+      "Up",
+      "L1",
+      "Left",
+      "Left"
+     ],
+     "xbox": [
+      "X",
+      "LB",
+      "RB",
+      "Right",
+      "A",
+      "Up",
+      "LB",
+      "Left",
+      "Left"
+     ],
+     "pc": "XJVSNAJ",
+     "note": "Removed from Definitive Edition"
+    },
+    {
+     "name": "Orange Sky (21:00)",
+     "cat": "World",
+     "ps": [
+      "Left",
+      "Left",
+      "L2",
+      "R1",
+      "Right",
+      "Square",
+      "Square",
+      "L1",
+      "L2",
+      "Cross"
+     ],
+     "xbox": [
+      "Left",
+      "Left",
+      "LT",
+      "RB",
+      "Right",
+      "X",
+      "X",
+      "LB",
+      "LT",
+      "A"
+     ],
+     "pc": "OFVIAC"
+    },
+    {
+     "name": "Foggy Weather",
+     "cat": "Weather",
+     "ps": [
+      "R2",
+      "Cross",
+      "L1",
+      "L1",
+      "L2",
+      "L2",
+      "L2",
+      "Cross"
+     ],
+     "xbox": [
+      "RT",
+      "A",
+      "LB",
+      "LB",
+      "LT",
+      "LT",
+      "LT",
+      "A"
+     ],
+     "pc": "CFVFGMJ"
+    },
+    {
+     "name": "Stormy Weather",
+     "cat": "Weather",
+     "ps": [
+      "R2",
+      "Cross",
+      "L1",
+      "L1",
+      "L2",
+      "L2",
+      "L2",
+      "Circle"
+     ],
+     "xbox": [
+      "RT",
+      "A",
+      "LB",
+      "LB",
+      "LT",
+      "LT",
+      "LT",
+      "B"
+     ],
+     "pc": "AUIFRVQS"
+    },
+    {
+     "name": "Cloudy Weather",
+     "cat": "Weather",
+     "ps": [
+      "R2",
+      "Cross",
+      "L1",
+      "L1",
+      "L2",
+      "L2",
+      "L2",
+      "Square"
+     ],
+     "xbox": [
+      "RT",
+      "A",
+      "LB",
+      "LB",
+      "LT",
+      "LT",
+      "LT",
+      "X"
+     ],
+     "pc": "ALNSFMZO"
+    },
+    {
+     "name": "Sandstorm",
+     "cat": "Weather",
+     "ps": [
+      "Up",
+      "Down",
+      "L1",
+      "L1",
+      "L2",
+      "L2",
+      "L1",
+      "L2",
+      "R1",
+      "R2"
+     ],
+     "xbox": [
+      "Up",
+      "Down",
+      "LB",
+      "LB",
+      "LT",
+      "LT",
+      "LB",
+      "LT",
+      "RB",
+      "RT"
+     ],
+     "pc": "CWJXUOC"
+    },
+    {
+     "name": "Very Sunny Weather",
+     "cat": "Weather",
+     "pc": "ICIKPYH"
+    },
+    {
+     "name": "Sunny Weather",
+     "cat": "Weather",
+     "pc": "MGHXYRM"
+    },
+    {
+     "name": "Big Head Mode (Definitive Edition)",
+     "cat": "World",
+     "pc": "EXPANDDOME"
+    }
+   ]
+  },
+  {
+   "id": "lcs",
+   "title": "Liberty City Stories",
+   "year": 2005,
+   "city": "Liberty City",
+   "color": "0xFF42A5F5",
+   "platforms": [
+    "ps"
+   ],
+   "how": {
+    "ps": "PSP and PS2 only. Enter during gameplay (not paused)."
+   },
+   "source": "GameFAQs",
+   "cheats": [
+    {
+     "name": "$250,000",
+     "cat": "Player",
+     "ps": [
+      "L1",
+      "R1",
+      "Triangle",
+      "L1",
+      "R1",
+      "Circle",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Full Health",
+     "cat": "Player",
+     "ps": [
+      "L1",
+      "R1",
+      "Cross",
+      "L1",
+      "R1",
+      "Square",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Full Armor",
+     "cat": "Player",
+     "ps": [
+      "L1",
+      "R1",
+      "Circle",
+      "L1",
+      "R1",
+      "Cross",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Weapon Set 1",
+     "cat": "Weapons",
+     "ps": [
+      "Up",
+      "Square",
+      "Square",
+      "Down",
+      "Left",
+      "Square",
+      "Square",
+      "Right"
+     ]
+    },
+    {
+     "name": "Weapon Set 2",
+     "cat": "Weapons",
+     "ps": [
+      "Up",
+      "Circle",
+      "Circle",
+      "Down",
+      "Left",
+      "Circle",
+      "Circle",
+      "Right"
+     ]
+    },
+    {
+     "name": "Weapon Set 3",
+     "cat": "Weapons",
+     "ps": [
+      "Up",
+      "Cross",
+      "Cross",
+      "Down",
+      "Left",
+      "Cross",
+      "Cross",
+      "Right"
+     ]
+    },
+    {
+     "name": "Raise Wanted Level",
+     "cat": "Wanted",
+     "ps": [
+      "L1",
+      "R1",
+      "Square",
+      "L1",
+      "R1",
+      "Triangle",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Never Wanted",
+     "cat": "Wanted",
+     "ps": [
+      "L1",
+      "L1",
+      "Triangle",
+      "R1",
+      "R1",
+      "Cross",
+      "Square",
+      "Circle"
+     ]
+    },
+    {
+     "name": "Commit Suicide",
+     "cat": "Player",
+     "ps": [
+      "L1",
+      "Down",
+      "Left",
+      "R1",
+      "Cross",
+      "Circle",
+      "Up",
+      "Triangle"
+     ]
+    },
+    {
+     "name": "Spawn Rhino Tank",
+     "cat": "Vehicles",
+     "ps": [
+      "L1",
+      "L1",
+      "Left",
+      "L1",
+      "L1",
+      "Right",
+      "Triangle",
+      "Circle"
+     ]
+    },
+    {
+     "name": "Spawn Trashmaster",
+     "cat": "Vehicles",
+     "ps": [
+      "Triangle",
+      "Circle",
+      "Down",
+      "Triangle",
+      "Circle",
+      "Up",
+      "L1",
+      "L1"
+     ]
+    },
+    {
+     "name": "Destroy All Cars",
+     "cat": "Vehicles",
+     "ps": [
+      "L1",
+      "L1",
+      "Left",
+      "L1",
+      "L1",
+      "Right",
+      "Cross",
+      "Square"
+     ]
+    },
+    {
+     "name": "Cars Drive on Water",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "Cross",
+      "Down",
+      "Circle",
+      "Cross",
+      "Up",
+      "L1",
+      "L1"
+     ]
+    },
+    {
+     "name": "Perfect Handling",
+     "cat": "Vehicles",
+     "ps": [
+      "L1",
+      "Up",
+      "Left",
+      "R1",
+      "Triangle",
+      "Circle",
+      "Down",
+      "Cross"
+     ]
+    },
+    {
+     "name": "Chrome Cars",
+     "cat": "Traffic",
+     "ps": [
+      "Triangle",
+      "R1",
+      "L1",
+      "Down",
+      "Down",
+      "R1",
+      "R1",
+      "Triangle"
+     ]
+    },
+    {
+     "name": "Black Cars",
+     "cat": "Traffic",
+     "ps": [
+      "Circle",
+      "Circle",
+      "R1",
+      "Triangle",
+      "Triangle",
+      "L1",
+      "Square",
+      "Square"
+     ]
+    },
+    {
+     "name": "White Cars",
+     "cat": "Traffic",
+     "ps": [
+      "Cross",
+      "Cross",
+      "R1",
+      "Circle",
+      "Circle",
+      "L1",
+      "Triangle",
+      "Triangle"
+     ]
+    },
+    {
+     "name": "Aggressive Drivers",
+     "cat": "Traffic",
+     "ps": [
+      "Square",
+      "Square",
+      "R1",
+      "Cross",
+      "Cross",
+      "L1",
+      "Circle",
+      "Circle"
+     ]
+    },
+    {
+     "name": "All Green Lights",
+     "cat": "Traffic",
+     "ps": [
+      "Triangle",
+      "Triangle",
+      "R1",
+      "Square",
+      "Square",
+      "L1",
+      "Cross",
+      "Cross"
+     ]
+    },
+    {
+     "name": "Pedestrians Riot",
+     "cat": "Pedestrians",
+     "ps": [
+      "L1",
+      "L1",
+      "R1",
+      "L1",
+      "L1",
+      "R1",
+      "Left",
+      "Square"
+     ]
+    },
+    {
+     "name": "Pedestrians Attack You",
+     "cat": "Pedestrians",
+     "ps": [
+      "L1",
+      "L1",
+      "R1",
+      "L1",
+      "L1",
+      "R1",
+      "Up",
+      "Triangle"
+     ]
+    },
+    {
+     "name": "Pedestrians Have Weapons",
+     "cat": "Pedestrians",
+     "ps": [
+      "R1",
+      "R1",
+      "L1",
+      "R1",
+      "R1",
+      "L1",
+      "Right",
+      "Circle"
+     ]
+    },
+    {
+     "name": "People Follow You",
+     "cat": "Pedestrians",
+     "ps": [
+      "Down",
+      "Down",
+      "Down",
+      "Triangle",
+      "Triangle",
+      "Circle",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Bobble Head World",
+     "cat": "World",
+     "ps": [
+      "Down",
+      "Down",
+      "Down",
+      "Circle",
+      "Circle",
+      "Cross",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Faster Gameplay",
+     "cat": "World",
+     "ps": [
+      "R1",
+      "R1",
+      "L1",
+      "R1",
+      "R1",
+      "L1",
+      "Down",
+      "Cross"
+     ]
+    },
+    {
+     "name": "Slower Gameplay",
+     "cat": "World",
+     "ps": [
+      "R1",
+      "Triangle",
+      "Cross",
+      "R1",
+      "Square",
+      "Circle",
+      "Left",
+      "Right"
+     ]
+    },
+    {
+     "name": "Faster Clock",
+     "cat": "World",
+     "ps": [
+      "L1",
+      "L1",
+      "Left",
+      "L1",
+      "L1",
+      "Right",
+      "Circle",
+      "Cross"
+     ]
+    },
+    {
+     "name": "Clear Weather",
+     "cat": "Weather",
+     "ps": [
+      "Up",
+      "Down",
+      "Circle",
+      "Up",
+      "Down",
+      "Square",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Sunny Weather",
+     "cat": "Weather",
+     "ps": [
+      "L1",
+      "L1",
+      "Circle",
+      "R1",
+      "R1",
+      "Square",
+      "Triangle",
+      "Cross"
+     ]
+    },
+    {
+     "name": "Overcast Weather",
+     "cat": "Weather",
+     "ps": [
+      "Up",
+      "Down",
+      "Cross",
+      "Up",
+      "Down",
+      "Triangle",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Rainy Weather",
+     "cat": "Weather",
+     "ps": [
+      "Up",
+      "Down",
+      "Square",
+      "Up",
+      "Down",
+      "Circle",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Foggy Weather",
+     "cat": "Weather",
+     "ps": [
+      "Up",
+      "Down",
+      "Triangle",
+      "Up",
+      "Down",
+      "Cross",
+      "L1",
+      "R1"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vcs",
+   "title": "Vice City Stories",
+   "year": 2006,
+   "city": "Vice City",
+   "color": "0xFFAB47BC",
+   "platforms": [
+    "ps"
+   ],
+   "how": {
+    "ps": "PSP and PS2 only. Enter during gameplay (not paused)."
+   },
+   "source": "GameFAQs",
+   "cheats": [
+    {
+     "name": "$250,000",
+     "cat": "Player",
+     "ps": [
+      "Up",
+      "Down",
+      "Left",
+      "Right",
+      "Cross",
+      "Cross",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Full Health",
+     "cat": "Player",
+     "ps": [
+      "Up",
+      "Down",
+      "Left",
+      "Right",
+      "Circle",
+      "Circle",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Full Armor",
+     "cat": "Player",
+     "ps": [
+      "Up",
+      "Down",
+      "Left",
+      "Right",
+      "Square",
+      "Square",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Weapon Set 1",
+     "cat": "Weapons",
+     "ps": [
+      "Left",
+      "Right",
+      "Cross",
+      "Up",
+      "Down",
+      "Square",
+      "Left",
+      "Right"
+     ]
+    },
+    {
+     "name": "Weapon Set 2",
+     "cat": "Weapons",
+     "ps": [
+      "Left",
+      "Right",
+      "Square",
+      "Up",
+      "Down",
+      "Triangle",
+      "Left",
+      "Right"
+     ]
+    },
+    {
+     "name": "Weapon Set 3",
+     "cat": "Weapons",
+     "ps": [
+      "Left",
+      "Right",
+      "Triangle",
+      "Up",
+      "Down",
+      "Circle",
+      "Left",
+      "Right"
+     ]
+    },
+    {
+     "name": "Raise Wanted Level",
+     "cat": "Wanted",
+     "ps": [
+      "Up",
+      "Right",
+      "Square",
+      "Square",
+      "Down",
+      "Left",
+      "Circle",
+      "Circle"
+     ]
+    },
+    {
+     "name": "Never Wanted",
+     "cat": "Wanted",
+     "ps": [
+      "Up",
+      "Right",
+      "Triangle",
+      "Triangle",
+      "Down",
+      "Left",
+      "Cross",
+      "Cross"
+     ]
+    },
+    {
+     "name": "Commit Suicide (Wasted!)",
+     "cat": "Player",
+     "ps": [
+      "Right",
+      "Right",
+      "Circle",
+      "Circle",
+      "L1",
+      "R1",
+      "Down",
+      "Cross"
+     ]
+    },
+    {
+     "name": "Spawn Rhino Tank",
+     "cat": "Vehicles",
+     "ps": [
+      "Up",
+      "L1",
+      "Down",
+      "R1",
+      "Left",
+      "L1",
+      "Right",
+      "R1"
+     ]
+    },
+    {
+     "name": "Spawn Trashmaster",
+     "cat": "Vehicles",
+     "ps": [
+      "Down",
+      "Up",
+      "Right",
+      "Triangle",
+      "L1",
+      "Triangle",
+      "L1",
+      "Triangle"
+     ]
+    },
+    {
+     "name": "Destroy Nearby Cars",
+     "cat": "Vehicles",
+     "ps": [
+      "L1",
+      "R1",
+      "R1",
+      "Left",
+      "Right",
+      "Square",
+      "Down",
+      "R1"
+     ]
+    },
+    {
+     "name": "Perfect Traction",
+     "cat": "Vehicles",
+     "ps": [
+      "Down",
+      "Left",
+      "Up",
+      "L1",
+      "R1",
+      "Triangle",
+      "Circle",
+      "Cross"
+     ]
+    },
+    {
+     "name": "Black Cars",
+     "cat": "Traffic",
+     "ps": [
+      "L1",
+      "R1",
+      "L1",
+      "R1",
+      "Left",
+      "Circle",
+      "Up",
+      "Cross"
+     ]
+    },
+    {
+     "name": "Chrome Cars",
+     "cat": "Traffic",
+     "ps": [
+      "Right",
+      "Up",
+      "Left",
+      "Down",
+      "Triangle",
+      "Triangle",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Cars Avoid You",
+     "cat": "Traffic",
+     "ps": [
+      "Up",
+      "Up",
+      "Right",
+      "Left",
+      "Triangle",
+      "Circle",
+      "Circle",
+      "Square"
+     ]
+    },
+    {
+     "name": "All Green Lights",
+     "cat": "Traffic",
+     "ps": [
+      "Up",
+      "Down",
+      "Triangle",
+      "Cross",
+      "L1",
+      "R1",
+      "Left",
+      "Circle"
+     ]
+    },
+    {
+     "name": "Pedestrians Riot",
+     "cat": "Pedestrians",
+     "ps": [
+      "R1",
+      "L1",
+      "L1",
+      "Down",
+      "Left",
+      "Circle",
+      "Down",
+      "L1"
+     ]
+    },
+    {
+     "name": "Pedestrians Attack You",
+     "cat": "Pedestrians",
+     "ps": [
+      "Down",
+      "Triangle",
+      "Up",
+      "Cross",
+      "L1",
+      "R1",
+      "L1",
+      "R1"
+     ]
+    },
+    {
+     "name": "Pedestrians Have Weapons",
+     "cat": "Pedestrians",
+     "ps": [
+      "Up",
+      "L1",
+      "Down",
+      "R1",
+      "Left",
+      "Circle",
+      "Right",
+      "Triangle"
+     ]
+    },
+    {
+     "name": "Guys Follow You",
+     "cat": "Pedestrians",
+     "ps": [
+      "Right",
+      "L1",
+      "Down",
+      "L1",
+      "Circle",
+      "Up",
+      "L1",
+      "Square"
+     ]
+    },
+    {
+     "name": "Nearest Ped Gets In Your Car",
+     "cat": "Pedestrians",
+     "ps": [
+      "Down",
+      "Up",
+      "Right",
+      "L1",
+      "L1",
+      "Square",
+      "Up",
+      "L1"
+     ]
+    },
+    {
+     "name": "Faster Gameplay",
+     "cat": "World",
+     "ps": [
+      "Left",
+      "Left",
+      "R1",
+      "R1",
+      "Up",
+      "Triangle",
+      "Down",
+      "Cross"
+     ]
+    },
+    {
+     "name": "Slower Gameplay",
+     "cat": "World",
+     "ps": [
+      "Left",
+      "Left",
+      "Circle",
+      "Circle",
+      "Down",
+      "Up",
+      "Triangle",
+      "Cross"
+     ]
+    },
+    {
+     "name": "Faster Clock",
+     "cat": "World",
+     "ps": [
+      "R1",
+      "L1",
+      "L1",
+      "Down",
+      "Up",
+      "Cross",
+      "Down",
+      "L1"
+     ]
+    },
+    {
+     "name": "Clear Weather",
+     "cat": "Weather",
+     "ps": [
+      "Left",
+      "Down",
+      "R1",
+      "L1",
+      "Right",
+      "Up",
+      "Left",
+      "Cross"
+     ]
+    },
+    {
+     "name": "Sunny Weather",
+     "cat": "Weather",
+     "ps": [
+      "Left",
+      "Down",
+      "R1",
+      "L1",
+      "Right",
+      "Up",
+      "Left",
+      "Circle"
+     ]
+    },
+    {
+     "name": "Overcast Weather",
+     "cat": "Weather",
+     "ps": [
+      "Left",
+      "Down",
+      "L1",
+      "R1",
+      "Right",
+      "Up",
+      "Left",
+      "Square"
+     ]
+    },
+    {
+     "name": "Rainy Weather",
+     "cat": "Weather",
+     "ps": [
+      "Left",
+      "Down",
+      "L1",
+      "R1",
+      "Right",
+      "Up",
+      "Left",
+      "Triangle"
+     ]
+    },
+    {
+     "name": "Foggy Weather",
+     "cat": "Weather",
+     "ps": [
+      "Left",
+      "Down",
+      "Triangle",
+      "Cross",
+      "Right",
+      "Up",
+      "Left",
+      "L1"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iv",
+   "title": "GTA IV",
+   "year": 2008,
+   "city": "Liberty City",
+   "color": "0xFF90A4AE",
+   "platforms": [
+    "ps",
+    "xbox",
+    "pc"
+   ],
+   "how": {
+    "ps": "Open the in-game phone and dial the number. Same on every platform.",
+    "xbox": "Open the in-game phone and dial the number. Same on every platform.",
+    "pc": "Open the in-game phone and dial the number. Same on every platform."
+   },
+   "source": "GameFAQs / GameSpot",
+   "cheats": [
+    {
+     "name": "Health, Armor & Ammo",
+     "cat": "Player",
+     "phone": "482-555-0100"
+    },
+    {
+     "name": "Health & Armor",
+     "cat": "Player",
+     "phone": "362-555-0100"
+    },
+    {
+     "name": "Weapon Set 1",
+     "cat": "Weapons",
+     "phone": "486-555-0100"
+    },
+    {
+     "name": "Weapon Set 2",
+     "cat": "Weapons",
+     "phone": "486-555-0150"
+    },
+    {
+     "name": "Remove Wanted Level",
+     "cat": "Wanted",
+     "phone": "267-555-0100"
+    },
+    {
+     "name": "Raise Wanted Level",
+     "cat": "Wanted",
+     "phone": "267-555-0150"
+    },
+    {
+     "name": "Change Weather",
+     "cat": "Weather",
+     "phone": "468-555-0100"
+    },
+    {
+     "name": "Spawn Annihilator",
+     "cat": "Vehicles",
+     "phone": "359-555-0100"
+    },
+    {
+     "name": "Spawn Cognoscenti",
+     "cat": "Vehicles",
+     "phone": "227-555-0142"
+    },
+    {
+     "name": "Spawn Comet",
+     "cat": "Vehicles",
+     "phone": "227-555-0175"
+    },
+    {
+     "name": "Spawn FIB Buffalo",
+     "cat": "Vehicles",
+     "phone": "227-555-0100"
+    },
+    {
+     "name": "Spawn Jetmax",
+     "cat": "Vehicles",
+     "phone": "938-555-0100"
+    },
+    {
+     "name": "Spawn NRG-900",
+     "cat": "Vehicles",
+     "phone": "625-555-0100"
+    },
+    {
+     "name": "Spawn Sanchez",
+     "cat": "Vehicles",
+     "phone": "625-555-0150"
+    },
+    {
+     "name": "Spawn Super GT",
+     "cat": "Vehicles",
+     "phone": "227-555-0168"
+    },
+    {
+     "name": "Spawn Turismo",
+     "cat": "Vehicles",
+     "phone": "227-555-0147"
+    }
+   ]
+  },
+  {
+   "id": "v",
+   "title": "GTA V",
+   "year": 2013,
+   "city": "Los Santos",
+   "color": "0xFF26C6DA",
+   "platforms": [
+    "ps",
+    "xbox",
+    "pc"
+   ],
+   "how": {
+    "ps": "Enter the buttons during gameplay, or dial the 1-999 number on the in-game phone.",
+    "xbox": "Enter the buttons during gameplay, or dial the 1-999 number on the in-game phone.",
+    "pc": "Press ~ to open the console and type the word, or dial the 1-999 number on the phone."
+   },
+   "source": "GameSpot (GameFAQs list), Polygon",
+   "cheats": [
+    {
+     "name": "Invincibility (5 min)",
+     "cat": "Player",
+     "ps": [
+      "Right",
+      "Cross",
+      "Right",
+      "Left",
+      "Right",
+      "R1",
+      "Right",
+      "Left",
+      "Cross",
+      "Triangle"
+     ],
+     "xbox": [
+      "Right",
+      "A",
+      "Right",
+      "Left",
+      "Right",
+      "RB",
+      "Right",
+      "Left",
+      "A",
+      "Y"
+     ],
+     "pc": "PAINKILLER",
+     "phone": "1-999-7246545537"
+    },
+    {
+     "name": "Max Health & Armor",
+     "cat": "Player",
+     "ps": [
+      "Circle",
+      "L1",
+      "Triangle",
+      "R2",
+      "Cross",
+      "Square",
+      "Circle",
+      "Right",
+      "Square",
+      "L1",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "B",
+      "LB",
+      "Y",
+      "RT",
+      "A",
+      "X",
+      "B",
+      "Right",
+      "X",
+      "LB",
+      "LB",
+      "LB"
+     ],
+     "pc": "TURTLE",
+     "phone": "1-999-887853"
+    },
+    {
+     "name": "Weapons & Ammo",
+     "cat": "Weapons",
+     "ps": [
+      "Triangle",
+      "R2",
+      "Left",
+      "L1",
+      "Cross",
+      "Right",
+      "Triangle",
+      "Down",
+      "Square",
+      "L1",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "Y",
+      "RT",
+      "Left",
+      "LB",
+      "A",
+      "Right",
+      "Y",
+      "Down",
+      "X",
+      "LB",
+      "LB",
+      "LB"
+     ],
+     "pc": "TOOLUP",
+     "phone": "1-999-866587"
+    },
+    {
+     "name": "Raise Wanted Level",
+     "cat": "Wanted",
+     "ps": [
+      "R1",
+      "R1",
+      "Circle",
+      "R2",
+      "Left",
+      "Right",
+      "Left",
+      "Right",
+      "Left",
+      "Right"
+     ],
+     "xbox": [
+      "RB",
+      "RB",
+      "B",
+      "RT",
+      "Left",
+      "Right",
+      "Left",
+      "Right",
+      "Left",
+      "Right"
+     ],
+     "pc": "FUGITIVE",
+     "phone": "1-999-38448483"
+    },
+    {
+     "name": "Lower Wanted Level",
+     "cat": "Wanted",
+     "ps": [
+      "R1",
+      "R1",
+      "Circle",
+      "R2",
+      "Right",
+      "Left",
+      "Right",
+      "Left",
+      "Right",
+      "Left"
+     ],
+     "xbox": [
+      "RB",
+      "RB",
+      "B",
+      "RT",
+      "Right",
+      "Left",
+      "Right",
+      "Left",
+      "Right",
+      "Left"
+     ],
+     "pc": "LAWYERUP",
+     "phone": "1-999-52993787"
+    },
+    {
+     "name": "Recharge Special Ability",
+     "cat": "Player",
+     "ps": [
+      "Cross",
+      "Cross",
+      "Square",
+      "R1",
+      "L1",
+      "Cross",
+      "Right",
+      "Left",
+      "Cross"
+     ],
+     "xbox": [
+      "A",
+      "A",
+      "X",
+      "RB",
+      "LB",
+      "A",
+      "Right",
+      "Left",
+      "A"
+     ],
+     "pc": "POWERUP",
+     "phone": "1-999-7693787"
+    },
+    {
+     "name": "Give Parachute",
+     "cat": "Player",
+     "ps": [
+      "Left",
+      "Right",
+      "L1",
+      "L2",
+      "R1",
+      "R2",
+      "R2",
+      "Left",
+      "Left",
+      "Right",
+      "L1"
+     ],
+     "xbox": [
+      "Left",
+      "Right",
+      "LB",
+      "LT",
+      "RB",
+      "RT",
+      "RT",
+      "Left",
+      "Left",
+      "Right",
+      "LB"
+     ],
+     "pc": "SKYDIVE",
+     "phone": "1-999-7593483"
+    },
+    {
+     "name": "Drunk Mode",
+     "cat": "Player",
+     "ps": [
+      "Triangle",
+      "Right",
+      "Right",
+      "Left",
+      "Right",
+      "Square",
+      "Circle",
+      "Left"
+     ],
+     "xbox": [
+      "Y",
+      "Right",
+      "Right",
+      "Left",
+      "Right",
+      "X",
+      "B",
+      "Left"
+     ],
+     "pc": "LIQUOR",
+     "phone": "1-999-547867"
+    },
+    {
+     "name": "Fast Run",
+     "cat": "Player",
+     "ps": [
+      "Triangle",
+      "Left",
+      "Right",
+      "Right",
+      "L2",
+      "L1",
+      "Square"
+     ],
+     "xbox": [
+      "Y",
+      "Left",
+      "Right",
+      "Right",
+      "LT",
+      "LB",
+      "X"
+     ],
+     "pc": "CATCHME",
+     "phone": "1-999-2282463"
+    },
+    {
+     "name": "Fast Swim",
+     "cat": "Player",
+     "ps": [
+      "Left",
+      "Left",
+      "L1",
+      "Right",
+      "Right",
+      "R2",
+      "Left",
+      "L2",
+      "Right"
+     ],
+     "xbox": [
+      "Left",
+      "Left",
+      "LB",
+      "Right",
+      "Right",
+      "RT",
+      "Left",
+      "LT",
+      "Right"
+     ],
+     "pc": "GOTGILLS",
+     "phone": "1-999-46844557"
+    },
+    {
+     "name": "Skyfall",
+     "cat": "Player",
+     "ps": [
+      "L1",
+      "L2",
+      "R1",
+      "R2",
+      "Left",
+      "Right",
+      "Left",
+      "Right",
+      "L1",
+      "L2",
+      "R1",
+      "R2",
+      "Left",
+      "Right",
+      "Left",
+      "Right"
+     ],
+     "xbox": [
+      "LB",
+      "LT",
+      "RB",
+      "RT",
+      "Left",
+      "Right",
+      "Left",
+      "Right",
+      "LB",
+      "LT",
+      "RB",
+      "RT",
+      "Left",
+      "Right",
+      "Left",
+      "Right"
+     ],
+     "pc": "SKYFALL",
+     "phone": "1-999-7593255"
+    },
+    {
+     "name": "Super Jump",
+     "cat": "Player",
+     "ps": [
+      "Left",
+      "Left",
+      "Triangle",
+      "Triangle",
+      "Right",
+      "Right",
+      "Left",
+      "Right",
+      "Square",
+      "R1",
+      "R2"
+     ],
+     "xbox": [
+      "Left",
+      "Left",
+      "Y",
+      "Y",
+      "Right",
+      "Right",
+      "Left",
+      "Right",
+      "X",
+      "RB",
+      "RT"
+     ],
+     "pc": "HOPTOIT",
+     "phone": "1-999-4678648"
+    },
+    {
+     "name": "Moon Gravity",
+     "cat": "World",
+     "ps": [
+      "Left",
+      "Left",
+      "L1",
+      "R1",
+      "L1",
+      "Right",
+      "Left",
+      "L1",
+      "Left"
+     ],
+     "xbox": [
+      "Left",
+      "Left",
+      "LB",
+      "RB",
+      "LB",
+      "Right",
+      "Left",
+      "LB",
+      "Left"
+     ],
+     "pc": "FLOATER",
+     "phone": "1-999-3562837"
+    },
+    {
+     "name": "Explosive Melee Attacks",
+     "cat": "Weapons",
+     "ps": [
+      "Right",
+      "Left",
+      "Cross",
+      "Triangle",
+      "R1",
+      "Circle",
+      "Circle",
+      "Circle",
+      "L2"
+     ],
+     "xbox": [
+      "Right",
+      "Left",
+      "A",
+      "Y",
+      "RB",
+      "B",
+      "B",
+      "B",
+      "LT"
+     ],
+     "pc": "HOTHANDS",
+     "phone": "1-999-46842637"
+    },
+    {
+     "name": "Explosive Ammo",
+     "cat": "Weapons",
+     "ps": [
+      "Right",
+      "Square",
+      "Cross",
+      "Left",
+      "R1",
+      "R2",
+      "Left",
+      "Right",
+      "Right",
+      "L1",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "Right",
+      "X",
+      "A",
+      "Left",
+      "RB",
+      "RT",
+      "Left",
+      "Right",
+      "Right",
+      "LB",
+      "LB",
+      "LB"
+     ],
+     "pc": "HIGHEX",
+     "phone": "1-999-444439"
+    },
+    {
+     "name": "Flaming Bullets",
+     "cat": "Weapons",
+     "ps": [
+      "L1",
+      "R1",
+      "Square",
+      "R1",
+      "Left",
+      "R2",
+      "R1",
+      "Left",
+      "Square",
+      "Right",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "LB",
+      "RB",
+      "X",
+      "RB",
+      "Left",
+      "RT",
+      "RB",
+      "Left",
+      "X",
+      "Right",
+      "LB",
+      "LB"
+     ],
+     "pc": "INCENDIARY",
+     "phone": "1-999-4623634279"
+    },
+    {
+     "name": "Slow Motion Aim",
+     "cat": "Weapons",
+     "ps": [
+      "Square",
+      "L2",
+      "R1",
+      "Triangle",
+      "Left",
+      "Square",
+      "L2",
+      "Right",
+      "Cross"
+     ],
+     "xbox": [
+      "X",
+      "LT",
+      "RB",
+      "Y",
+      "Left",
+      "X",
+      "LT",
+      "Right",
+      "A"
+     ],
+     "pc": "DEADEYE",
+     "phone": "1-999-3323393"
+    },
+    {
+     "name": "Slow Motion",
+     "cat": "World",
+     "ps": [
+      "Triangle",
+      "Left",
+      "Right",
+      "Right",
+      "Square",
+      "R2",
+      "R1"
+     ],
+     "xbox": [
+      "Y",
+      "Left",
+      "Right",
+      "Right",
+      "X",
+      "RT",
+      "RB"
+     ],
+     "pc": "SLOWMO",
+     "phone": "1-999-756966"
+    },
+    {
+     "name": "Change Weather",
+     "cat": "Weather",
+     "ps": [
+      "R2",
+      "Cross",
+      "L1",
+      "L1",
+      "L2",
+      "L2",
+      "L2",
+      "Square"
+     ],
+     "xbox": [
+      "RT",
+      "A",
+      "LB",
+      "LB",
+      "LT",
+      "LT",
+      "LT",
+      "X"
+     ],
+     "pc": "MAKEITRAIN",
+     "phone": "1-999-6253487246"
+    },
+    {
+     "name": "Slippery Cars",
+     "cat": "Vehicles",
+     "ps": [
+      "Triangle",
+      "R1",
+      "R1",
+      "Left",
+      "R1",
+      "L1",
+      "R2",
+      "L1"
+     ],
+     "xbox": [
+      "Y",
+      "RB",
+      "RB",
+      "Left",
+      "RB",
+      "LB",
+      "RT",
+      "LB"
+     ],
+     "pc": "SNOWDAY",
+     "phone": "1-999-7669329"
+    },
+    {
+     "name": "Spawn Buzzard Helicopter",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "Circle",
+      "L1",
+      "Circle",
+      "Circle",
+      "Circle",
+      "L1",
+      "L2",
+      "R1",
+      "Triangle",
+      "Circle",
+      "Triangle"
+     ],
+     "xbox": [
+      "B",
+      "B",
+      "LB",
+      "B",
+      "B",
+      "B",
+      "LB",
+      "LT",
+      "RB",
+      "Y",
+      "B",
+      "Y"
+     ],
+     "pc": "BUZZOFF",
+     "phone": "1-999-2899633"
+    },
+    {
+     "name": "Spawn Stunt Plane",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "Right",
+      "L1",
+      "L2",
+      "Left",
+      "R1",
+      "L1",
+      "L1",
+      "Left",
+      "Left",
+      "Cross",
+      "Triangle"
+     ],
+     "xbox": [
+      "B",
+      "Right",
+      "LB",
+      "LT",
+      "Left",
+      "RB",
+      "LB",
+      "LB",
+      "Left",
+      "Left",
+      "A",
+      "Y"
+     ],
+     "pc": "BARNSTORM",
+     "phone": "1-999-227678676"
+    },
+    {
+     "name": "Spawn Duster",
+     "cat": "Vehicles",
+     "ps": [
+      "Right",
+      "Left",
+      "R1",
+      "R1",
+      "R1",
+      "Left",
+      "Triangle",
+      "Triangle",
+      "Cross",
+      "Circle",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "Right",
+      "Left",
+      "RB",
+      "RB",
+      "RB",
+      "Left",
+      "Y",
+      "Y",
+      "A",
+      "B",
+      "LB",
+      "LB"
+     ],
+     "pc": "FLYSPRAY",
+     "phone": "1-999-35977729"
+    },
+    {
+     "name": "Spawn Comet",
+     "cat": "Vehicles",
+     "ps": [
+      "R1",
+      "Circle",
+      "R2",
+      "Right",
+      "L1",
+      "L2",
+      "Cross",
+      "Cross",
+      "Square",
+      "R1"
+     ],
+     "xbox": [
+      "RB",
+      "B",
+      "RT",
+      "Right",
+      "LB",
+      "LT",
+      "A",
+      "A",
+      "X",
+      "RB"
+     ],
+     "pc": "COMET",
+     "phone": "1-999-26638"
+    },
+    {
+     "name": "Spawn Rapid GT",
+     "cat": "Vehicles",
+     "ps": [
+      "R2",
+      "L1",
+      "Circle",
+      "Right",
+      "L1",
+      "R1",
+      "Right",
+      "Left",
+      "Circle",
+      "R2"
+     ],
+     "xbox": [
+      "RT",
+      "LB",
+      "B",
+      "Right",
+      "LB",
+      "RB",
+      "Right",
+      "Left",
+      "B",
+      "RT"
+     ],
+     "pc": "RAPIDGT",
+     "phone": "1-999-7274348"
+    },
+    {
+     "name": "Spawn Limo",
+     "cat": "Vehicles",
+     "ps": [
+      "R2",
+      "Right",
+      "L2",
+      "Left",
+      "Left",
+      "R1",
+      "L1",
+      "Circle",
+      "Right"
+     ],
+     "xbox": [
+      "RT",
+      "Right",
+      "LT",
+      "Left",
+      "Left",
+      "RB",
+      "LB",
+      "B",
+      "Right"
+     ],
+     "pc": "VINEWOOD",
+     "phone": "1-999-84639663"
+    },
+    {
+     "name": "Spawn Trashmaster",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "R1",
+      "Circle",
+      "R1",
+      "Left",
+      "Left",
+      "R1",
+      "L1",
+      "Circle",
+      "Right"
+     ],
+     "xbox": [
+      "B",
+      "RB",
+      "B",
+      "RB",
+      "Left",
+      "Left",
+      "RB",
+      "LB",
+      "B",
+      "Right"
+     ],
+     "pc": "TRASHED",
+     "phone": "1-999-8727433"
+    },
+    {
+     "name": "Spawn Caddy",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "L1",
+      "Left",
+      "R1",
+      "L2",
+      "Cross",
+      "R1",
+      "L1",
+      "Circle",
+      "Cross"
+     ],
+     "xbox": [
+      "B",
+      "LB",
+      "Left",
+      "RB",
+      "LT",
+      "A",
+      "RB",
+      "LB",
+      "B",
+      "A"
+     ],
+     "pc": "HOLEIN1",
+     "phone": "1-999-4653461"
+    },
+    {
+     "name": "Spawn Sanchez",
+     "cat": "Vehicles",
+     "ps": [
+      "Circle",
+      "Cross",
+      "L1",
+      "Circle",
+      "Circle",
+      "L1",
+      "Circle",
+      "R1",
+      "R2",
+      "L2",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "B",
+      "A",
+      "LB",
+      "B",
+      "B",
+      "LB",
+      "B",
+      "RB",
+      "RT",
+      "LT",
+      "LB",
+      "LB"
+     ],
+     "pc": "OFFROAD",
+     "phone": "1-999-6337623"
+    },
+    {
+     "name": "Spawn PCJ-600",
+     "cat": "Vehicles",
+     "ps": [
+      "R1",
+      "Right",
+      "Left",
+      "Right",
+      "R2",
+      "Left",
+      "Right",
+      "Square",
+      "Right",
+      "L2",
+      "L1",
+      "L1"
+     ],
+     "xbox": [
+      "RB",
+      "Right",
+      "Left",
+      "Right",
+      "RT",
+      "Left",
+      "Right",
+      "X",
+      "Right",
+      "LT",
+      "LB",
+      "LB"
+     ],
+     "pc": "ROCKET",
+     "phone": "1-999-762538"
+    },
+    {
+     "name": "Spawn Dodo Seaplane",
+     "cat": "Vehicles",
+     "pc": "EXTINCT",
+     "phone": "1-999-3984628"
+    },
+    {
+     "name": "Spawn Kraken Sub",
+     "cat": "Vehicles",
+     "pc": "BUBBLES",
+     "phone": "1-999-2822537"
+    },
+    {
+     "name": "Spawn Duke O'Death",
+     "cat": "Vehicles",
+     "pc": "DEATHCAR",
+     "phone": "1-999-33284227"
+    },
+    {
+     "name": "Director Mode",
+     "cat": "World",
+     "pc": "JRTALENT",
+     "phone": "1-999-57825368"
+    }
+   ]
+  },
+  {
+   "id": "vi",
+   "title": "GTA 6",
+   "year": 2026,
+   "city": "Leonida",
+   "color": "0xFFFF7043",
+   "platforms": [
+    "ps",
+    "xbox"
+   ],
+   "how": {
+    "ps": "Finish the story first. Then open the phone (D-pad Up), hold L1 + R1 and enter the D-pad code. Each cheat also has its own unlock challenge. Using a cheat disables saving and trophies for that session.",
+    "xbox": "Finish the story first. Then open the phone (D-pad Up), hold LB + RB and enter the D-pad code. Each cheat also has its own unlock challenge. Using a cheat disables saving and achievements for that session."
+   },
+   "source": "Codes shown only where GameSpot, GamesRadar+, Polygon and/or Red Bull print the same sequence (checked 22 Nov 2026). Rockstar has not published an official list.",
+   "cheats": [
+    {
+     "name": "$250,000",
+     "cat": "Player",
+     "unlock": "Finish the story",
+     "ps": [
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+     ],
+     "xbox": [
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Up",
+      "Left",
+      "Down",
+      "Right"
+     ]
+    },
+    {
+     "name": "Drunk",
+     "cat": "Player",
+     "unlock": "Spend $2,500 on alcohol",
+     "ps": [
+      "Up",
+      "Left",
+      "Right",
+      "Up",
+      "Up",
+      "Left",
+      "Right",
+      "Up",
+      "Left",
+      "Right"
+     ],
+     "xbox": [
+      "Up",
+      "Left",
+      "Right",
+      "Up",
+      "Up",
+      "Left",
+      "Right",
+      "Up",
+      "Left",
+      "Right"
+     ]
+    },
+    {
+     "name": "Raise Heat Level",
+     "cat": "Player",
+     "unlock": "Lose a 3-star wanted level 25 times",
+     "ps": [
+      "Left",
+      "Down",
+      "Right",
+      "Down",
+      "Up",
+      "Down",
+      "Up"
+     ],
+     "xbox": [
+      "Left",
+      "Down",
+      "Right",
+      "Down",
+      "Up",
+      "Down",
+      "Up"
+     ]
+    },
+    {
+     "name": "Raise Wanted Level",
+     "cat": "Player",
+     "unlock": "Lose a 3-star wanted level 50 times",
+     "ps": [
+      "Left",
+      "Down",
+      "Right",
+      "Down",
+      "Up",
+      "Right",
+      "Up"
+     ],
+     "xbox": [
+      "Left",
+      "Down",
+      "Right",
+      "Down",
+      "Up",
+      "Right",
+      "Up"
+     ]
+    },
+    {
+     "name": "Unlimited Focus",
+     "cat": "Player",
+     "unlock": "Finish the story",
+     "ps": [
+      "Down",
+      "Up",
+      "Up",
+      "Down",
+      "Up",
+      "Down",
+      "Up",
+      "Down",
+      "Up",
+      "Right"
+     ],
+     "xbox": [
+      "Down",
+      "Up",
+      "Up",
+      "Down",
+      "Up",
+      "Down",
+      "Up",
+      "Down",
+      "Up",
+      "Right"
+     ]
+    },
+    {
+     "name": "Body Armor",
+     "cat": "Player",
+     "unlock": "Complete 100 workouts",
+     "ps": [
+      "Down",
+      "Up",
+      "Left",
+      "Up",
+      "Up",
+      "Up",
+      "Up",
+      "Up",
+      "Down",
+      "Down"
+     ],
+     "xbox": [
+      "Down",
+      "Up",
+      "Left",
+      "Up",
+      "Up",
+      "Up",
+      "Up",
+      "Up",
+      "Down",
+      "Down"
+     ]
+    },
+    {
+     "name": "No Fall Damage",
+     "cat": "Player",
+     "unlock": "Survive a 40-foot freefall 20 times",
+     "soon": true
+    },
+    {
+     "name": "Parachute",
+     "cat": "Player",
+     "unlock": "50 skydives or BASE jumps from 300 ft+",
+     "soon": true
+    },
+    {
+     "name": "Repair Vehicle",
+     "cat": "Player",
+     "unlock": "Win 10 races at Gellhorn, Thrillbilly and Boone",
+     "soon": true
+    },
+    {
+     "name": "Unlimited Nitrous",
+     "cat": "Player",
+     "unlock": "Complete 50 stunt jumps",
+     "soon": true
+    },
+    {
+     "name": "Max Ammo",
+     "cat": "Combat",
+     "unlock": "25 bronze medals at shooting ranges",
+     "ps": [
+      "Down",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Left",
+      "Up",
+      "Up",
+      "Down",
+      "Left"
+     ],
+     "xbox": [
+      "Down",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Left",
+      "Up",
+      "Up",
+      "Down",
+      "Left"
+     ]
+    },
+    {
+     "name": "Infinite Ammo",
+     "cat": "Combat",
+     "unlock": "25 silver medals at shooting ranges",
+     "ps": [
+      "Down",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Left",
+      "Up",
+      "Down",
+      "Down",
+      "Down"
+     ],
+     "xbox": [
+      "Down",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Left",
+      "Up",
+      "Down",
+      "Down",
+      "Down"
+     ]
+    },
+    {
+     "name": "No Reload",
+     "cat": "Combat",
+     "unlock": "25 gold medals at shooting ranges",
+     "ps": [
+      "Down",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Left",
+      "Up",
+      "Down",
+      "Down",
+      "Up"
+     ],
+     "xbox": [
+      "Down",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Left",
+      "Up",
+      "Down",
+      "Down",
+      "Up"
+     ]
+    },
+    {
+     "name": "Attack Force",
+     "cat": "Combat",
+     "unlock": "Finish the story",
+     "ps": [
+      "Down",
+      "Up",
+      "Left",
+      "Left",
+      "Right",
+      "Down",
+      "Down",
+      "Up",
+      "Down"
+     ],
+     "xbox": [
+      "Down",
+      "Up",
+      "Left",
+      "Left",
+      "Right",
+      "Down",
+      "Down",
+      "Up",
+      "Down"
+     ]
+    },
+    {
+     "name": "Exploding Balls",
+     "cat": "Combat",
+     "unlock": "Hit 20 enemies with explosive damage",
+     "ps": [
+      "Down",
+      "Up",
+      "Left",
+      "Left",
+      "Right",
+      "Down",
+      "Down",
+      "Up",
+      "Right"
+     ],
+     "xbox": [
+      "Down",
+      "Up",
+      "Left",
+      "Left",
+      "Right",
+      "Down",
+      "Down",
+      "Up",
+      "Right"
+     ]
+    },
+    {
+     "name": "Vehicle Force",
+     "cat": "Combat",
+     "unlock": "Kill 25 enemies with a vehicle",
+     "ps": [
+      "Down",
+      "Up",
+      "Left",
+      "Left",
+      "Right",
+      "Down",
+      "Left",
+      "Up",
+      "Down"
+     ],
+     "xbox": [
+      "Down",
+      "Up",
+      "Left",
+      "Left",
+      "Right",
+      "Down",
+      "Left",
+      "Up",
+      "Down"
+     ]
+    },
+    {
+     "name": "All Explosive Weapons",
+     "cat": "Combat",
+     "unlock": "Throw 100 grenades",
+     "soon": true
+    },
+    {
+     "name": "Incendiary Ammo",
+     "cat": "Combat",
+     "unlock": "Burn 100 enemies",
+     "soon": true
+    },
+    {
+     "name": "Exploding Bottles",
+     "cat": "Combat",
+     "unlock": "Throw 100 molotovs",
+     "soon": true
+    },
+    {
+     "name": "Explosive Shotgun",
+     "cat": "Combat",
+     "unlock": "Hit 100 enemies with explosive damage",
+     "soon": true
+    },
+    {
+     "name": "Hauners H-AT",
+     "cat": "Combat",
+     "unlock": "Blow up 100 vehicles",
+     "soon": true
+    },
+    {
+     "name": "Maibatsu Boomazoom",
+     "cat": "Vehicles",
+     "unlock": "Complete 5 shopping challenges",
+     "ps": [
+      "Left",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Left",
+      "Up",
+      "Left"
+     ],
+     "xbox": [
+      "Left",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Left",
+      "Up",
+      "Left"
+     ]
+    },
+    {
+     "name": "MTL Pumper",
+     "cat": "Vehicles",
+     "unlock": "Discover the MTL Pumper",
+     "ps": [
+      "Left",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Right",
+      "Right",
+      "Up"
+     ],
+     "xbox": [
+      "Left",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Right",
+      "Right",
+      "Up"
+     ]
+    },
+    {
+     "name": "HVY Bulldozer",
+     "cat": "Vehicles",
+     "unlock": "Discover the HVY Bulldozer",
+     "ps": [
+      "Left",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Right",
+      "Right",
+      "Down"
+     ],
+     "xbox": [
+      "Left",
+      "Up",
+      "Right",
+      "Down",
+      "Left",
+      "Right",
+      "Right",
+      "Down"
+     ]
+    },
+    {
+     "name": "Interstate Ambulance",
+     "cat": "Vehicles",
+     "unlock": "Discover the Interstate Ambulance",
+     "soon": true
+    },
+    {
+     "name": "Airboat 09",
+     "cat": "Vehicles",
+     "unlock": "5 survival challenges",
+     "soon": true
+    },
+    {
+     "name": "Bravado Banshee",
+     "cat": "Vehicles",
+     "unlock": "All combat challenges",
+     "soon": true
+    },
+    {
+     "name": "Tuff BMX",
+     "cat": "Vehicles",
+     "unlock": "5 fitness challenges",
+     "soon": true
+    },
+    {
+     "name": "Nagasaki Carbon RS",
+     "cat": "Vehicles",
+     "unlock": "All exploration challenges",
+     "soon": true
+    },
+    {
+     "name": "'65 Vapid Dominator",
+     "cat": "Vehicles",
+     "unlock": "All fitness challenges",
+     "soon": true
+    },
+    {
+     "name": "Progen Emerus",
+     "cat": "Vehicles",
+     "unlock": "All vehicle challenges",
+     "soon": true
+    },
+    {
+     "name": "Inflatable Flamingo",
+     "cat": "Vehicles",
+     "unlock": "Destroy 50 cocaine flamingos",
+     "soon": true
+    },
+    {
+     "name": "Vapid Stanier G2 Taxi",
+     "cat": "Vehicles",
+     "unlock": "5 sports challenges",
+     "soon": true
+    },
+    {
+     "name": "Hauners P-996 Lazer",
+     "cat": "Vehicles",
+     "unlock": "Complete all challenges",
+     "soon": true
+    },
+    {
+     "name": "Lapwing Mallard",
+     "cat": "Vehicles",
+     "unlock": "5 vehicle challenges",
+     "soon": true
+    },
+    {
+     "name": "Brimstone Golfer",
+     "cat": "Vehicles",
+     "unlock": "All sports challenges",
+     "soon": true
+    },
+    {
+     "name": "Hauners Rhino Tank",
+     "cat": "Vehicles",
+     "unlock": "All survival challenges",
+     "soon": true
+    },
+    {
+     "name": "Maibatsu Sanchez",
+     "cat": "Vehicles",
+     "unlock": "5 criminal challenges",
+     "soon": true
+    },
+    {
+     "name": "Nagasaki Sea Sparrow",
+     "cat": "Vehicles",
+     "unlock": "5 exploration challenges",
+     "soon": true
+    },
+    {
+     "name": "Speeder 700 GT",
+     "cat": "Vehicles",
+     "unlock": "5 combat challenges",
+     "soon": true
+    },
+    {
+     "name": "Truffade Thrax",
+     "cat": "Vehicles",
+     "unlock": "All shopping challenges",
+     "soon": true
+    },
+    {
+     "name": "Western Zombie Bobber",
+     "cat": "Vehicles",
+     "unlock": "All criminal challenges",
+     "soon": true
+    },
+    {
+     "name": "Cycle Weather",
+     "cat": "Environment",
+     "unlock": "Finish the story / reveal the map",
+     "ps": [
+      "Down",
+      "Right",
+      "Up",
+      "Down",
+      "Right",
+      "Up",
+      "Right"
+     ],
+     "xbox": [
+      "Down",
+      "Right",
+      "Up",
+      "Down",
+      "Right",
+      "Up",
+      "Right"
+     ]
+    },
+    {
+     "name": "Move Time Forward",
+     "cat": "Environment",
+     "unlock": "Find 10 collectible watches",
+     "soon": true
+    },
+    {
+     "name": "Pause Time of Day",
+     "cat": "Environment",
+     "unlock": "Find 20 collectible watches",
+     "soon": true
+    },
+    {
+     "name": "Cataclysm",
+     "cat": "Filters",
+     "unlock": "Discover Martha's Vamos",
+     "ps": [
+      "Down",
+      "Down",
+      "Up",
+      "Right",
+      "Right",
+      "Up",
+      "Left",
+      "Left",
+      "Right",
+      "Right"
+     ],
+     "xbox": [
+      "Down",
+      "Down",
+      "Up",
+      "Right",
+      "Right",
+      "Up",
+      "Left",
+      "Left",
+      "Right",
+      "Right"
+     ]
+    },
+    {
+     "name": "Dollhouse",
+     "cat": "Filters",
+     "unlock": "Spend 8 hours with your partner",
+     "ps": [
+      "Down",
+      "Down",
+      "Up",
+      "Right",
+      "Right",
+      "Up",
+      "Left",
+      "Left",
+      "Down",
+      "Right"
+     ],
+     "xbox": [
+      "Down",
+      "Down",
+      "Up",
+      "Right",
+      "Right",
+      "Up",
+      "Left",
+      "Left",
+      "Down",
+      "Right"
+     ]
+    },
+    {
+     "name": "Faded Glory",
+     "cat": "Filters",
+     "unlock": "Rob 50 stores with your partner",
+     "ps": [
+      "Down",
+      "Down",
+      "Up",
+      "Right",
+      "Right",
+      "Up",
+      "Left",
+      "Left",
+      "Left",
+      "Right"
+     ],
+     "xbox": [
+      "Down",
+      "Down",
+      "Up",
+      "Right",
+      "Right",
+      "Up",
+      "Left",
+      "Left",
+      "Left",
+      "Right"
+     ]
+    },
+    {
+     "name": "Golden Hour",
+     "cat": "Filters",
+     "unlock": "Spend 4 hours holding hands",
+     "soon": true
+    },
+    {
+     "name": "Powdered Sugar",
+     "cat": "Filters",
+     "unlock": "Scan all space debris",
+     "soon": true
+    },
+    {
+     "name": "Pinhole",
+     "cat": "Filters",
+     "unlock": "Clear 25 gang operations with your partner",
+     "soon": true
+    },
+    {
+     "name": "Neon Jungle",
+     "cat": "Filters",
+     "unlock": "Discover all 16 Girlypop vehicles",
+     "soon": true
+    },
+    {
+     "name": "Yesteryear",
+     "cat": "Filters",
+     "unlock": "Discover the Ridgway",
+     "soon": true
+    },
+    {
+     "name": "Videotape",
+     "cat": "Filters",
+     "unlock": "50 activities with your partner",
+     "soon": true
+    },
+    {
+     "name": "Dark Mirror",
+     "cat": "Filters",
+     "unlock": "Make $500,000 selling vehicles",
+     "soon": true
+    },
+    {
+     "name": "Migraine",
+     "cat": "Filters",
+     "unlock": "Survive 6 minutes at 6 stars",
+     "soon": true
+    },
+    {
+     "name": "Bubblegum",
+     "cat": "Filters",
+     "unlock": "Find all 24 Vice City Flamingos cards",
+     "soon": true
+    },
+    {
+     "name": "Fast Forward",
+     "cat": "Filters",
+     "unlock": "Complete 50 meditations",
+     "soon": true
+    },
+    {
+     "name": "Fisheye",
+     "cat": "Filters",
+     "unlock": "Catch 100 fish",
+     "soon": true
+    },
+    {
+     "name": "Pixel Art",
+     "cat": "Filters",
+     "unlock": "Make $250,000 selling collectibles",
+     "soon": true
+    },
+    {
+     "name": "Hellscape",
+     "cat": "Filters",
+     "unlock": "Steal 100 cop vehicles",
+     "soon": true
+    }
+   ]
+  }
+ ]
+}

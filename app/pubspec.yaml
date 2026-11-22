@@ -1,0 +1,61 @@
+name: cheatcodes
+description: "Cheat Codes for GTA - unofficial fan cheat code reference."
+publish_to: 'none'
+version: 5.0.0+5
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.3.0
+  material_ui: ^1.1.0
+  url_launcher: ^6.3.0
+  google_mobile_ads: ^9.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.0
+  flutter_native_splash: ^2.4.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/stickers/
+    - assets/stickers/1/
+    - assets/stickers/2/
+    - assets/stickers/3/
+    - assets/games/
+    - assets/apps/
+    - assets/icon/
+  fonts:
+    - family: Anton
+      fonts:
+        - asset: assets/fonts/Anton-Regular.ttf
+    - family: FABrands
+      fonts:
+        - asset: assets/fonts/fa-brands-subset.ttf
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: branding/icon.png
+  adaptive_icon_background: "#000000"
+  adaptive_icon_foreground: branding/icon_fg.png
+  min_sdk_android: 24
+
+flutter_native_splash:
+  color: "#000000"
+  image: branding/splash_logo.png
+  android_12:
+    color: "#000000"
+    image: branding/splash_a12.png
+    icon_background_color: "#000000"
+  android: true
+  ios: false
+  web: false
+  fullscreen: false
